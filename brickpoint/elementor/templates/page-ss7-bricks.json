@@ -1,0 +1,378 @@
+{
+    "title": "SS7 Bricks",
+    "type": "page",
+    "version": "0.4",
+    "brickpoint": {
+        "key": "page-ss7-bricks",
+        "conditions": [],
+        "option": "",
+        "page_slug": "ss7-bricks"
+    },
+    "page_settings": {
+        "template": "elementor_header_footer"
+    },
+    "content": [
+        {
+            "id": "40081ce",
+            "elType": "container",
+            "settings": {
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                    "unit": "px",
+                    "size": 0,
+                    "column": "0",
+                    "row": "0",
+                    "isLinked": true
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": true
+                },
+                "margin": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": true
+                }
+            },
+            "elements": [
+                {
+                    "id": "be470f4",
+                    "elType": "widget",
+                    "widgetType": "bp_page_header",
+                    "settings": {
+                        "bg_image": {
+                            "url": "demo:redStack",
+                            "id": 0
+                        },
+                        "size": "lg",
+                        "eyebrow": "Flagship Range",
+                        "eyebrow_style": "badge",
+                        "eyebrow_icon": {
+                            "value": "bpi bpi-award",
+                            "library": "brickpoint"
+                        },
+                        "title": "SS7 <span class=\"hl\">Bricks</span>",
+                        "text": "Our signature high-strength brick — consistent firing, sharp edges and dependable supply for homes, commercial work and boundary structures.",
+                        "buttons": [
+                            {
+                                "text": "Request SS7 Quotation",
+                                "url": {
+                                    "url": "wa:Assalam-o-Alaikum BrickPoint,\n\nI want a quotation for: SS7 Bricks\n\nPlease share price, availability and delivery details.\n\nThank you.",
+                                    "is_external": "on",
+                                    "nofollow": ""
+                                },
+                                "style": "whatsapp",
+                                "size": "lg",
+                                "_id": "0af0232"
+                            },
+                            {
+                                "text": "Browse Products",
+                                "url": {
+                                    "url": "archive:bp_product",
+                                    "is_external": "",
+                                    "nofollow": ""
+                                },
+                                "style": "ghost",
+                                "size": "lg",
+                                "_id": "37c7e40"
+                            }
+                        ],
+                        "side_image": {
+                            "url": "demo:redStack",
+                            "id": 0
+                        },
+                        "side_tags": "High Strength\nSharp Edges\nEven Firing"
+                    },
+                    "elements": []
+                }
+            ],
+            "isInner": false
+        },
+        {
+            "id": "74b85fb",
+            "elType": "container",
+            "settings": {
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                    "unit": "px",
+                    "size": 0,
+                    "column": "0",
+                    "row": "0",
+                    "isLinked": true
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": true
+                },
+                "margin": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": true
+                }
+            },
+            "elements": [
+                {
+                    "id": "3e30152",
+                    "elType": "widget",
+                    "widgetType": "bp_icon_cards",
+                    "settings": {
+                        "style": "white-3xl",
+                        "columns": "4",
+                        "eyebrow": "Editable Specifications",
+                        "title": "SS7 at a glance",
+                        "text": "Specification fields are editable from the product record — update size, colour, type, strength, usage, availability and delivery area any time.",
+                        "items": [
+                            {
+                                "icon": {
+                                    "value": "bpi bpi-ruler",
+                                    "library": "brickpoint"
+                                },
+                                "title": "Size",
+                                "text": "Standard chamber size — confirm current batch on quote",
+                                "_id": "5652cc3"
+                            },
+                            {
+                                "icon": {
+                                    "value": "bpi bpi-palette",
+                                    "library": "brickpoint"
+                                },
+                                "title": "Colour",
+                                "text": "Classic kiln-fired red with natural variation",
+                                "_id": "2c7aa10"
+                            },
+                            {
+                                "icon": {
+                                    "value": "bpi bpi-layers",
+                                    "library": "brickpoint"
+                                },
+                                "title": "Type & Strength",
+                                "text": "Burnt-clay SS7 — high crushing strength grade",
+                                "_id": "523424d"
+                            },
+                            {
+                                "icon": {
+                                    "value": "bpi bpi-truck",
+                                    "library": "brickpoint"
+                                },
+                                "title": "Usage & Delivery",
+                                "text": "Homes • Commercial • Boundary — delivery on schedule",
+                                "_id": "99d07d8"
+                            }
+                        ],
+                        "after_html": "<strong>Quality highlights:</strong> uniform size &amp; sharp edges • consistent kiln firing • sorted batches • bulk order support. For lab-tested strength figures of the current batch, message us on WhatsApp."
+                    },
+                    "elements": []
+                }
+            ],
+            "isInner": false
+        },
+        {
+            "id": "2d024c6",
+            "elType": "container",
+            "settings": {
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                    "unit": "px",
+                    "size": 0,
+                    "column": "0",
+                    "row": "0",
+                    "isLinked": true
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": true
+                },
+                "margin": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": true
+                }
+            },
+            "elements": [
+                {
+                    "id": "8b97fdc",
+                    "elType": "widget",
+                    "widgetType": "bp_video_content",
+                    "settings": {
+                        "dark": "yes",
+                        "eyebrow": "Product Video",
+                        "title": "Watch SS7 bricks up close",
+                        "list": "Manufacturing walkthrough\nQuality & firing checks\nUsage on real sites",
+                        "buttons": [
+                            {
+                                "text": "All Videos",
+                                "url": {
+                                    "url": "archive:bp_video",
+                                    "is_external": "",
+                                    "nofollow": ""
+                                },
+                                "style": "ghost",
+                                "icon": {
+                                    "value": "bpi bpi-play",
+                                    "library": "brickpoint"
+                                },
+                                "icon_pos": "left",
+                                "_id": "3c322b2"
+                            }
+                        ],
+                        "video": "demo:hero",
+                        "poster": {
+                            "url": "demo:heroPoster",
+                            "id": 0
+                        }
+                    },
+                    "elements": []
+                }
+            ],
+            "isInner": false
+        },
+        {
+            "id": "a574c2d",
+            "elType": "container",
+            "settings": {
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                    "unit": "px",
+                    "size": 0,
+                    "column": "0",
+                    "row": "0",
+                    "isLinked": true
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": true
+                },
+                "margin": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": true
+                }
+            },
+            "elements": [
+                {
+                    "id": "240d9fa",
+                    "elType": "widget",
+                    "widgetType": "bp_product_grid",
+                    "settings": {
+                        "plain": "yes",
+                        "head_layout": "row",
+                        "title": "SS7 Products",
+                        "category": "ss7-bricks",
+                        "featured": "",
+                        "count": 8,
+                        "columns": "4",
+                        "button_text": "View all",
+                        "button_url": {
+                            "url": "archive:bp_product",
+                            "is_external": "",
+                            "nofollow": ""
+                        }
+                    },
+                    "elements": []
+                }
+            ],
+            "isInner": false
+        },
+        {
+            "id": "7103c0e",
+            "elType": "container",
+            "settings": {
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                    "unit": "px",
+                    "size": 0,
+                    "column": "0",
+                    "row": "0",
+                    "isLinked": true
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": true
+                },
+                "margin": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": true
+                }
+            },
+            "elements": [
+                {
+                    "id": "1f43cfb",
+                    "elType": "widget",
+                    "widgetType": "bp_cta_box",
+                    "settings": {
+                        "outer": "bp-section-sm bp-sand",
+                        "style": "dark",
+                        "split": "yes",
+                        "title": "Need SS7 for your project?",
+                        "text": "Share quantity + site location for availability, delivery details and final quotation.",
+                        "buttons": [
+                            {
+                                "text": "WhatsApp SS7 Inquiry",
+                                "url": {
+                                    "url": "wa:Assalam-o-Alaikum BrickPoint,\n\nI want a quotation for: SS7 Bricks\n\nPlease share price, availability and delivery details.\n\nThank you.",
+                                    "is_external": "on",
+                                    "nofollow": ""
+                                },
+                                "style": "whatsapp",
+                                "_id": "15881ca"
+                            },
+                            {
+                                "text": "Request Quote Form",
+                                "url": {
+                                    "url": "page:contact",
+                                    "is_external": "",
+                                    "nofollow": ""
+                                },
+                                "style": "brick",
+                                "_id": "e407151"
+                            }
+                        ]
+                    },
+                    "elements": []
+                }
+            ],
+            "isInner": false
+        }
+    ]
+}

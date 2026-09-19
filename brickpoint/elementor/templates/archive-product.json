@@ -1,0 +1,58 @@
+{
+    "title": "BrickPoint Products Archive",
+    "type": "archive",
+    "version": "0.4",
+    "brickpoint": {
+        "key": "archive-product",
+        "conditions": [
+            "include/archive/bp_product_archive",
+            "include/archive/bp_product_category"
+        ],
+        "option": "brickpoint_tpl_archive_product",
+        "page_slug": ""
+    },
+    "page_settings": [],
+    "content": [
+        {
+            "id": "b54386b",
+            "elType": "container",
+            "settings": {
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                    "unit": "px",
+                    "size": 0,
+                    "column": "0",
+                    "row": "0",
+                    "isLinked": true
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": true
+                },
+                "margin": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": true
+                }
+            },
+            "elements": [
+                {
+                    "id": "133c8de",
+                    "elType": "widget",
+                    "widgetType": "bp_archive_grid",
+                    "settings": [],
+                    "elements": []
+                }
+            ],
+            "isInner": false
+        }
+    ]
+}

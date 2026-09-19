@@ -1,0 +1,4 @@
+/* Gutenberg editor styles */
+.editor-styles-wrapper { font-family: "Inter", system-ui, sans-serif; color: #141210; }
+.editor-styles-wrapper h1, .editor-styles-wrapper h2, .editor-styles-wrapper h3 { font-family: "Archivo", "Inter", sans-serif; font-weight: 800; letter-spacing: -0.02em; }
+.editor-styles-wrapper a { color: #c2410c; }

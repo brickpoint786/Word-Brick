@@ -1,0 +1,185 @@
+{
+    "title": "Construction Materials",
+    "type": "page",
+    "version": "0.4",
+    "brickpoint": {
+        "key": "page-construction-materials",
+        "conditions": [],
+        "option": "",
+        "page_slug": "construction-materials"
+    },
+    "page_settings": {
+        "template": "elementor_header_footer"
+    },
+    "content": [
+        {
+            "id": "026400d",
+            "elType": "container",
+            "settings": {
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                    "unit": "px",
+                    "size": 0,
+                    "column": "0",
+                    "row": "0",
+                    "isLinked": true
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": true
+                },
+                "margin": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": true
+                }
+            },
+            "elements": [
+                {
+                    "id": "86b6c0f",
+                    "elType": "widget",
+                    "widgetType": "bp_page_header",
+                    "settings": {
+                        "eyebrow": "Complete Range",
+                        "title": "Construction Materials",
+                        "text": "Cement to finishes — one quotation, coordinated supply, WhatsApp-fast response."
+                    },
+                    "elements": []
+                }
+            ],
+            "isInner": false
+        },
+        {
+            "id": "463054a",
+            "elType": "container",
+            "settings": {
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                    "unit": "px",
+                    "size": 0,
+                    "column": "0",
+                    "row": "0",
+                    "isLinked": true
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": true
+                },
+                "margin": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": true
+                }
+            },
+            "elements": [
+                {
+                    "id": "28df6cf",
+                    "elType": "widget",
+                    "widgetType": "bp_material_groups",
+                    "settings": {
+                        "per_group": 4,
+                        "groups": [
+                            {
+                                "title": "Structure & Masonry",
+                                "categories": "bricks,ss7-bricks,cement,bajri-crush,sand-rait,steel",
+                                "_id": "8b7bc52"
+                            },
+                            {
+                                "title": "Pipes & Services",
+                                "categories": "electric-conduit-pipes,plumbing-pipes,cables-wires,switches-sockets",
+                                "_id": "0e5d962"
+                            },
+                            {
+                                "title": "Protection & Finish",
+                                "categories": "construction-chemicals,insulation-membrane,paints,lights,other-materials",
+                                "_id": "b40f577"
+                            }
+                        ]
+                    },
+                    "elements": []
+                }
+            ],
+            "isInner": false
+        },
+        {
+            "id": "62374ea",
+            "elType": "container",
+            "settings": {
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                    "unit": "px",
+                    "size": 0,
+                    "column": "0",
+                    "row": "0",
+                    "isLinked": true
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": true
+                },
+                "margin": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": true
+                }
+            },
+            "elements": [
+                {
+                    "id": "1d8e471",
+                    "elType": "widget",
+                    "widgetType": "bp_cta_box",
+                    "settings": {
+                        "outer": "bp-section-xs",
+                        "style": "plain",
+                        "title": "One list. One quotation. Coordinated delivery.",
+                        "text": "Send your BOQ or material list on WhatsApp and get a consolidated project quotation.",
+                        "eyebrow": "Bulk Orders",
+                        "buttons": [
+                            {
+                                "text": "Request Project Quotation",
+                                "url": {
+                                    "url": "page:contact",
+                                    "is_external": "",
+                                    "nofollow": ""
+                                },
+                                "style": "brick",
+                                "icon": {
+                                    "value": "bpi bpi-arrow-right",
+                                    "library": "brickpoint"
+                                },
+                                "size": "xl",
+                                "_id": "9a0927c"
+                            }
+                        ]
+                    },
+                    "elements": []
+                }
+            ],
+            "isInner": false
+        }
+    ]
+}

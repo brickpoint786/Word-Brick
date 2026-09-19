@@ -1,0 +1,58 @@
+{
+    "title": "BrickPoint Videos Archive",
+    "type": "archive",
+    "version": "0.4",
+    "brickpoint": {
+        "key": "archive-video",
+        "conditions": [
+            "include/archive/bp_video_archive",
+            "include/archive/bp_video_category"
+        ],
+        "option": "brickpoint_tpl_archive_video",
+        "page_slug": ""
+    },
+    "page_settings": [],
+    "content": [
+        {
+            "id": "3430a68",
+            "elType": "container",
+            "settings": {
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                    "unit": "px",
+                    "size": 0,
+                    "column": "0",
+                    "row": "0",
+                    "isLinked": true
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": true
+                },
+                "margin": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": true
+                }
+            },
+            "elements": [
+                {
+                    "id": "cb682cf",
+                    "elType": "widget",
+                    "widgetType": "bp_archive_grid",
+                    "settings": [],
+                    "elements": []
+                }
+            ],
+            "isInner": false
+        }
+    ]
+}

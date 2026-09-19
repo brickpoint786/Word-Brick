@@ -1,0 +1,55 @@
+{
+    "title": "BrickPoint Card — Blog",
+    "type": "section",
+    "version": "0.4",
+    "brickpoint": {
+        "key": "lib-card-blog",
+        "conditions": [],
+        "option": "",
+        "page_slug": ""
+    },
+    "page_settings": [],
+    "content": [
+        {
+            "id": "05a45f7",
+            "elType": "container",
+            "settings": {
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                    "unit": "px",
+                    "size": 0,
+                    "column": "0",
+                    "row": "0",
+                    "isLinked": true
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": true
+                },
+                "margin": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": true
+                }
+            },
+            "elements": [
+                {
+                    "id": "f46e906",
+                    "elType": "widget",
+                    "widgetType": "bp_blog_card",
+                    "settings": [],
+                    "elements": []
+                }
+            ],
+            "isInner": false
+        }
+    ]
+}
