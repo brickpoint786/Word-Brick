@@ -1,0 +1,35 @@
+/* BrickPoint responsive rules (mobile-first breakpoints mirror the original Tailwind sm/md/lg). */
+@media (max-width: 1023px) {
+  .bp-grid.cols-4 { grid-template-columns: repeat(2, minmax(0,1fr)); }
+  .bp-grid.cols-3 { grid-template-columns: repeat(2, minmax(0,1fr)); }
+  .bp-header-inner { height: 64px; }
+}
+@media (max-width: 767px) {
+  .bp-grid.cols-3, .bp-grid.cols-4 { grid-template-columns: 1fr; }
+  .bp-grid.cols-4.keep-2, .bp-grid.cols-2 { grid-template-columns: repeat(2, minmax(0,1fr)); }
+  .bp-grid.cols-2.stack-sm { grid-template-columns: 1fr; }
+  .bp-spec-grid { grid-template-columns: 1fr; }
+  .bp-gallery-thumbs { grid-template-columns: repeat(4, minmax(0,1fr)); gap: .5rem; }
+  .bp-img-float-cards { flex-direction: column; }
+  .bp-ss7-thumbs { position: static; margin-top: .75rem; }
+  .bp-ss7-gallery-wrap { padding-bottom: 0; }
+  .bp-cta-actions .bp-btn { width: 100%; }
+  .bp-specs dl div { grid-template-columns: 1fr; gap: .125rem; }
+  .bp-footer-legal { flex-wrap: wrap; justify-content: center; }
+  .bp-hero-caption strong { font-size: 1rem; }
+  .bp-btn-3 { grid-template-columns: 1fr; }
+  .bp-pagehead-title br { display: none; }
+}
+@media (max-width: 479px) {
+  .bp-grid.cols-2, .bp-grid.cols-4.keep-2 { grid-template-columns: 1fr; }
+  .bp-btn-2 { grid-template-columns: 1fr; }
+  .bp-social-grid { grid-template-columns: 1fr; }
+  .bp-btn { white-space: normal; text-align: center; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .marquee-track, .bp-ping { animation: none; }
+  .card-hover, .img-zoom img { transition: none; }
+}
+@media print {
+  .bp-header, .bp-topbar, .bp-footer, .bp-float-wa, .bp-drawer { display: none !important; }
+}

@@ -1,0 +1,750 @@
+{
+    "title": "Home",
+    "type": "page",
+    "version": "0.4",
+    "brickpoint": {
+        "key": "page-home",
+        "conditions": [],
+        "option": "",
+        "page_slug": "home"
+    },
+    "page_settings": {
+        "template": "elementor_header_footer"
+    },
+    "content": [
+        {
+            "id": "e64c670",
+            "elType": "container",
+            "settings": {
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                    "unit": "px",
+                    "size": 0,
+                    "column": "0",
+                    "row": "0",
+                    "isLinked": true
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": true
+                },
+                "margin": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": true
+                }
+            },
+            "elements": [
+                {
+                    "id": "c1aa6ad",
+                    "elType": "widget",
+                    "widgetType": "bp_hero",
+                    "settings": {
+                        "bg_image": {
+                            "url": "demo:brickMason",
+                            "id": 0
+                        },
+                        "badge_icon": {
+                            "value": "bpi bpi-factory",
+                            "library": "brickpoint"
+                        },
+                        "badge_text": "Masha Allah • Fine Bricks • SS7",
+                        "title": "Building Strength.<br><span class=\"hl\">Delivering Quality.</span><br>Shaping Tomorrow.",
+                        "text": "Premium bricks and reliable construction materials for homes, commercial developments, and large-scale building projects.",
+                        "buttons": [
+                            {
+                                "text": "Explore Products",
+                                "url": {
+                                    "url": "archive:bp_product",
+                                    "is_external": "",
+                                    "nofollow": ""
+                                },
+                                "style": "brick",
+                                "icon": {
+                                    "value": "bpi bpi-arrow-right",
+                                    "library": "brickpoint"
+                                },
+                                "_id": "561bf2a"
+                            },
+                            {
+                                "text": "Request a Quote",
+                                "url": {
+                                    "url": "page:contact",
+                                    "is_external": "",
+                                    "nofollow": ""
+                                },
+                                "style": "ghost",
+                                "_id": "bb9035e"
+                            },
+                            {
+                                "text": "WhatsApp Us",
+                                "url": {
+                                    "url": "whatsapp",
+                                    "is_external": "on",
+                                    "nofollow": ""
+                                },
+                                "style": "whatsapp",
+                                "_id": "0e28f04"
+                            }
+                        ],
+                        "trust": [
+                            {
+                                "icon": {
+                                    "value": "bpi bpi-shield-check",
+                                    "library": "brickpoint"
+                                },
+                                "text": "Quality-focused supply",
+                                "_id": "f848013"
+                            },
+                            {
+                                "icon": {
+                                    "value": "bpi bpi-truck",
+                                    "library": "brickpoint"
+                                },
+                                "text": "Reliable delivery",
+                                "_id": "25790da"
+                            },
+                            {
+                                "icon": {
+                                    "value": "bpi bpi-factory",
+                                    "library": "brickpoint"
+                                },
+                                "text": "Multiple production locations",
+                                "_id": "e7bfaf7"
+                            }
+                        ],
+                        "video_url": "demo:hero",
+                        "video_poster": {
+                            "url": "demo:heroPoster",
+                            "id": 0
+                        },
+                        "video_eyebrow": "SS7 Bricks • In Action",
+                        "video_title": "See the strength behind every brick",
+                        "video_link": {
+                            "url": "archive:bp_video",
+                            "is_external": "",
+                            "nofollow": ""
+                        },
+                        "ss7_show": "yes",
+                        "ss7_image": {
+                            "url": "demo:redStack",
+                            "id": 0
+                        },
+                        "ss7_eyebrow": "Flagship",
+                        "ss7_title": "SS7 Bricks",
+                        "ss7_link_text": "View SS7 range →",
+                        "ss7_link": {
+                            "url": "page:ss7-bricks",
+                            "is_external": "",
+                            "nofollow": ""
+                        },
+                        "stat_number": "3",
+                        "stat_suffix": "+",
+                        "stat_label": "Production units",
+                        "marquee": "SS7 Bricks\nCement\nBajri / Crush\nSand / Rait\nSteel\nPipes\nChemicals\nCables\nPaints\nLights"
+                    },
+                    "elements": []
+                }
+            ],
+            "isInner": false
+        },
+        {
+            "id": "fd93d6e",
+            "elType": "container",
+            "settings": {
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                    "unit": "px",
+                    "size": 0,
+                    "column": "0",
+                    "row": "0",
+                    "isLinked": true
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": true
+                },
+                "margin": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": true
+                }
+            },
+            "elements": [
+                {
+                    "id": "7208528",
+                    "elType": "widget",
+                    "widgetType": "bp_image_content",
+                    "settings": {
+                        "image": {
+                            "url": "demo:kiln",
+                            "id": 0
+                        },
+                        "float1_title": "Trusted Supply",
+                        "float1_text": "Consistent quality for every order size",
+                        "float2_title": "Bulk Ready",
+                        "float2_text": "Contractors & companies welcome",
+                        "eyebrow": "Why BrickPoint",
+                        "title": "A construction-materials partner you can build on",
+                        "text": "BrickPoint brings together trusted brick manufacturing units and a complete construction-materials range — so contractors, builders and developers can source with confidence.",
+                        "checklist": "Quality-focused brick manufacturing at multiple bhatta locations\nFull construction-materials catalogue — one supplier, one quotation\nWhatsApp-first ordering with fast, direct responses\nBulk supply for contractors, builders and construction companies",
+                        "buttons": [
+                            {
+                                "text": "About BrickPoint",
+                                "url": {
+                                    "url": "page:about",
+                                    "is_external": "",
+                                    "nofollow": ""
+                                },
+                                "style": "dark",
+                                "icon": {
+                                    "value": "bpi bpi-arrow-right",
+                                    "library": "brickpoint"
+                                },
+                                "_id": "98f510f"
+                            },
+                            {
+                                "text": "Our Locations",
+                                "url": {
+                                    "url": "archive:bp_location",
+                                    "is_external": "",
+                                    "nofollow": ""
+                                },
+                                "style": "outline",
+                                "_id": "1ef1e13"
+                            }
+                        ]
+                    },
+                    "elements": []
+                }
+            ],
+            "isInner": false
+        },
+        {
+            "id": "f2046eb",
+            "elType": "container",
+            "settings": {
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                    "unit": "px",
+                    "size": 0,
+                    "column": "0",
+                    "row": "0",
+                    "isLinked": true
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": true
+                },
+                "margin": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": true
+                }
+            },
+            "elements": [
+                {
+                    "id": "d902c32",
+                    "elType": "widget",
+                    "widgetType": "bp_category_grid",
+                    "settings": {
+                        "style": "dark",
+                        "count": 12,
+                        "eyebrow": "Product Categories",
+                        "title": "One supplier for your complete material list",
+                        "text": "From flagship SS7 bricks to cement, aggregates, steel, pipes, electricals and finishes.",
+                        "button_text": "View All Categories",
+                        "button_url": {
+                            "url": "page:categories",
+                            "is_external": "",
+                            "nofollow": ""
+                        }
+                    },
+                    "elements": []
+                }
+            ],
+            "isInner": false
+        },
+        {
+            "id": "1ae67dc",
+            "elType": "container",
+            "settings": {
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                    "unit": "px",
+                    "size": 0,
+                    "column": "0",
+                    "row": "0",
+                    "isLinked": true
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": true
+                },
+                "margin": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": true
+                }
+            },
+            "elements": [
+                {
+                    "id": "4f334e8",
+                    "elType": "widget",
+                    "widgetType": "bp_ss7_feature",
+                    "settings": {
+                        "eyebrow": "Flagship Product",
+                        "title": "The Strength Behind Every Structure",
+                        "text": "SS7 Bricks — our signature range engineered for strength, shape and lasting performance. Ask for specifications, availability and project pricing on WhatsApp.",
+                        "specs": [
+                            {
+                                "label": "Size",
+                                "value": "Standard chamber size (confirm on quote)",
+                                "_id": "cd87bb6"
+                            },
+                            {
+                                "label": "Type",
+                                "value": "Burnt-clay SS7",
+                                "_id": "141ce77"
+                            },
+                            {
+                                "label": "Usage",
+                                "value": "Homes • Commercial • Boundary",
+                                "_id": "3042850"
+                            },
+                            {
+                                "label": "Availability",
+                                "value": "Bulk & retail orders",
+                                "_id": "3e2af76"
+                            }
+                        ],
+                        "buttons": [
+                            {
+                                "text": "Request SS7 Quote",
+                                "url": {
+                                    "url": "wa:Assalam-o-Alaikum BrickPoint,\n\nI want a quotation for: SS7 Bricks\n\nPlease share price, availability and delivery details.\n\nThank you.",
+                                    "is_external": "on",
+                                    "nofollow": ""
+                                },
+                                "style": "whatsapp",
+                                "_id": "95f43f9"
+                            },
+                            {
+                                "text": "View SS7 Page",
+                                "url": {
+                                    "url": "page:ss7-bricks",
+                                    "is_external": "",
+                                    "nofollow": ""
+                                },
+                                "style": "dark",
+                                "icon": {
+                                    "value": "bpi bpi-arrow-right",
+                                    "library": "brickpoint"
+                                },
+                                "_id": "631eacf"
+                            }
+                        ],
+                        "image": {
+                            "url": "demo:redStack",
+                            "id": 0
+                        },
+                        "thumbs": [
+                            {
+                                "image": {
+                                    "url": "demo:stacked",
+                                    "id": 0
+                                },
+                                "_id": "53a9ba4"
+                            },
+                            {
+                                "image": {
+                                    "url": "demo:pile",
+                                    "id": 0
+                                },
+                                "_id": "39caa2d"
+                            },
+                            {
+                                "image": {
+                                    "url": "demo:worker",
+                                    "id": 0
+                                },
+                                "_id": "7d9b8d0"
+                            }
+                        ]
+                    },
+                    "elements": []
+                }
+            ],
+            "isInner": false
+        },
+        {
+            "id": "ad1ce98",
+            "elType": "container",
+            "settings": {
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                    "unit": "px",
+                    "size": 0,
+                    "column": "0",
+                    "row": "0",
+                    "isLinked": true
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": true
+                },
+                "margin": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": true
+                }
+            },
+            "elements": [
+                {
+                    "id": "95c8e71",
+                    "elType": "widget",
+                    "widgetType": "bp_product_grid",
+                    "settings": {
+                        "eyebrow": "Featured Products",
+                        "title": "Materials contractors ask for by name",
+                        "text": "Live from the product catalogue — prices, units and WhatsApp ordering on every card.",
+                        "count": 8,
+                        "featured": "yes",
+                        "columns": "4",
+                        "button_text": "Browse All Products",
+                        "button_url": {
+                            "url": "archive:bp_product",
+                            "is_external": "",
+                            "nofollow": ""
+                        }
+                    },
+                    "elements": []
+                }
+            ],
+            "isInner": false
+        },
+        {
+            "id": "92c1ebb",
+            "elType": "container",
+            "settings": {
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                    "unit": "px",
+                    "size": 0,
+                    "column": "0",
+                    "row": "0",
+                    "isLinked": true
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": true
+                },
+                "margin": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": true
+                }
+            },
+            "elements": [
+                {
+                    "id": "d290fc4",
+                    "elType": "widget",
+                    "widgetType": "bp_video_showcase",
+                    "settings": {
+                        "eyebrow": "Inside BrickPoint",
+                        "title": "See the Strength Behind Every Brick",
+                        "text": "Manufacturing, bhattas, quality checks, materials and project references — on video.",
+                        "button_text": "View All Videos",
+                        "button_url": {
+                            "url": "archive:bp_video",
+                            "is_external": "",
+                            "nofollow": ""
+                        },
+                        "main_video": "demo:drone",
+                        "main_poster": {
+                            "url": "demo:dronePoster",
+                            "id": 0
+                        },
+                        "main_badge": "Featured",
+                        "mini1_video": "demo:site",
+                        "mini1_poster": {
+                            "url": "demo:sitePoster",
+                            "id": 0
+                        },
+                        "mini1_caption": "From the Bhatta to Your Building",
+                        "mini1_text": "Brick preparation, firing, stacking, loading and quality — the journey of every batch.",
+                        "mini2_video": "demo:aerial",
+                        "mini2_poster": {
+                            "url": "demo:aerialPoster",
+                            "id": 0
+                        },
+                        "mini2_caption": "Materials That Become Landmarks",
+                        "mini2_text": "Illustrative construction references from housing developments and building work.",
+                        "count": 3
+                    },
+                    "elements": []
+                }
+            ],
+            "isInner": false
+        },
+        {
+            "id": "e53de1a",
+            "elType": "container",
+            "settings": {
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                    "unit": "px",
+                    "size": 0,
+                    "column": "0",
+                    "row": "0",
+                    "isLinked": true
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": true
+                },
+                "margin": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": true
+                }
+            },
+            "elements": [
+                {
+                    "id": "eb6e86e",
+                    "elType": "widget",
+                    "widgetType": "bp_project_grid",
+                    "settings": {
+                        "eyebrow": "Project References",
+                        "title": "Materials that become landmarks",
+                        "text": "Illustrative construction references from Lahore housing societies and building work.",
+                        "count": 3,
+                        "columns": "3"
+                    },
+                    "elements": []
+                }
+            ],
+            "isInner": false
+        },
+        {
+            "id": "d0a37eb",
+            "elType": "container",
+            "settings": {
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                    "unit": "px",
+                    "size": 0,
+                    "column": "0",
+                    "row": "0",
+                    "isLinked": true
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": true
+                },
+                "margin": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": true
+                }
+            },
+            "elements": [
+                {
+                    "id": "71e85d6",
+                    "elType": "widget",
+                    "widgetType": "bp_audience",
+                    "settings": {
+                        "eyebrow": "Who We Serve",
+                        "title": "Built for the way you build",
+                        "text": "Bulk supply, project quotations and coordinated materials — for every scale of builder.",
+                        "items": [
+                            {
+                                "title": "For Contractors",
+                                "text": "Bulk material supply, project-based quotations and delivery coordination.",
+                                "url": {
+                                    "url": "page:for-contractors",
+                                    "is_external": "",
+                                    "nofollow": ""
+                                },
+                                "image": {
+                                    "url": "demo:site",
+                                    "id": 0
+                                },
+                                "_id": "6eba182"
+                            },
+                            {
+                                "title": "For Builders",
+                                "text": "Consistent quality across every batch, with multi-category sourcing.",
+                                "url": {
+                                    "url": "page:for-builders",
+                                    "is_external": "",
+                                    "nofollow": ""
+                                },
+                                "image": {
+                                    "url": "demo:bricklayer",
+                                    "id": 0
+                                },
+                                "_id": "339f1ba"
+                            },
+                            {
+                                "title": "For Construction Companies",
+                                "text": "Large-scale supply, documentation and dedicated contact.",
+                                "url": {
+                                    "url": "page:for-companies",
+                                    "is_external": "",
+                                    "nofollow": ""
+                                },
+                                "image": {
+                                    "url": "demo:apt",
+                                    "id": 0
+                                },
+                                "_id": "ea9f703"
+                            }
+                        ]
+                    },
+                    "elements": []
+                }
+            ],
+            "isInner": false
+        },
+        {
+            "id": "4339fc7",
+            "elType": "container",
+            "settings": {
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                    "unit": "px",
+                    "size": 0,
+                    "column": "0",
+                    "row": "0",
+                    "isLinked": true
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": true
+                },
+                "margin": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": true
+                }
+            },
+            "elements": [
+                {
+                    "id": "d6b4065",
+                    "elType": "widget",
+                    "widgetType": "bp_cta_band",
+                    "settings": {
+                        "bg_image": {
+                            "url": "demo:bricklayer",
+                            "id": 0
+                        },
+                        "eyebrow": "Get a fast quotation",
+                        "title": "Send your material list.<br>We handle the rest.",
+                        "meta": "0315 2850818 • CEO: Syed Iftikhar Haider • Sales: Qasim Iqbal",
+                        "buttons": [
+                            {
+                                "text": "WhatsApp Your List",
+                                "url": {
+                                    "url": "wa:Assalam-o-Alaikum BrickPoint,\n\nPlease share a quotation for my construction materials.\n\nThank you.",
+                                    "is_external": "on",
+                                    "nofollow": ""
+                                },
+                                "style": "whatsapp",
+                                "icon": {
+                                    "value": "bpi bpi-message-circle",
+                                    "library": "brickpoint"
+                                },
+                                "_id": "32d21cb"
+                            },
+                            {
+                                "text": "Request Quote Form",
+                                "url": {
+                                    "url": "page:contact",
+                                    "is_external": "",
+                                    "nofollow": ""
+                                },
+                                "style": "brick",
+                                "_id": "33d4e5e"
+                            }
+                        ]
+                    },
+                    "elements": []
+                }
+            ],
+            "isInner": false
+        }
+    ]
+}

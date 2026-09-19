@@ -1,0 +1,336 @@
+{
+    "title": "About Us",
+    "type": "page",
+    "version": "0.4",
+    "brickpoint": {
+        "key": "page-about",
+        "conditions": [],
+        "option": "",
+        "page_slug": "about"
+    },
+    "page_settings": {
+        "template": "elementor_header_footer"
+    },
+    "content": [
+        {
+            "id": "6d89962",
+            "elType": "container",
+            "settings": {
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                    "unit": "px",
+                    "size": 0,
+                    "column": "0",
+                    "row": "0",
+                    "isLinked": true
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": true
+                },
+                "margin": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": true
+                }
+            },
+            "elements": [
+                {
+                    "id": "a783c5a",
+                    "elType": "widget",
+                    "widgetType": "bp_page_header",
+                    "settings": {
+                        "bg_image": {
+                            "url": "demo:bricklayer",
+                            "id": 0
+                        },
+                        "size": "md",
+                        "eyebrow": "Our Story",
+                        "title": "BrickPoint — strength you can build on",
+                        "text": "A construction-materials supplier bringing together trusted brick manufacturing units and a complete building-materials range for contractors, builders, developers and individual customers."
+                    },
+                    "elements": []
+                }
+            ],
+            "isInner": false
+        },
+        {
+            "id": "316b343",
+            "elType": "container",
+            "settings": {
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                    "unit": "px",
+                    "size": 0,
+                    "column": "0",
+                    "row": "0",
+                    "isLinked": true
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": true
+                },
+                "margin": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": true
+                }
+            },
+            "elements": [
+                {
+                    "id": "1a92f96",
+                    "elType": "widget",
+                    "widgetType": "bp_video_content",
+                    "settings": {
+                        "dark": "",
+                        "video_first": "yes",
+                        "video": "demo:site",
+                        "poster": {
+                            "url": "demo:sitePoster",
+                            "id": 0
+                        },
+                        "caption": "Company video — manufacturing and site work (replaceable from theme settings)",
+                        "eyebrow": "Brand Story",
+                        "title": "From bhatta kilns to landmark buildings",
+                        "text": "BrickPoint unites Masha Allah Bricks Company, Fine Bricks Company and the SS7 Bricks range with a full construction-materials catalogue — so every customer, from a single-home builder to a large developer, can source reliably from one supplier.",
+                        "cards": [
+                            {
+                                "icon": {
+                                    "value": "bpi bpi-target",
+                                    "library": "brickpoint"
+                                },
+                                "title": "Mission",
+                                "text": "Reliable, quality materials with honest quotations.",
+                                "_id": "3d9d4c7"
+                            },
+                            {
+                                "icon": {
+                                    "value": "bpi bpi-eye",
+                                    "library": "brickpoint"
+                                },
+                                "title": "Vision",
+                                "text": "The trusted materials partner for every project scale.",
+                                "_id": "d7e0966"
+                            },
+                            {
+                                "icon": {
+                                    "value": "bpi bpi-heart",
+                                    "library": "brickpoint"
+                                },
+                                "title": "Values",
+                                "text": "Quality, consistency and responsive service.",
+                                "_id": "785d178"
+                            }
+                        ]
+                    },
+                    "elements": []
+                }
+            ],
+            "isInner": false
+        },
+        {
+            "id": "8d162c1",
+            "elType": "container",
+            "settings": {
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                    "unit": "px",
+                    "size": 0,
+                    "column": "0",
+                    "row": "0",
+                    "isLinked": true
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": true
+                },
+                "margin": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": true
+                }
+            },
+            "elements": [
+                {
+                    "id": "d3c469b",
+                    "elType": "widget",
+                    "widgetType": "bp_icon_cards",
+                    "settings": {
+                        "bg": "bp-sand",
+                        "style": "dark-3xl",
+                        "columns": "4",
+                        "eyebrow": "Capabilities",
+                        "title": "What we supply",
+                        "items": [
+                            {
+                                "icon": {
+                                    "value": "bpi bpi-factory",
+                                    "library": "brickpoint"
+                                },
+                                "title": "Brick Manufacturing",
+                                "text": "Multiple bhatta locations producing burnt-clay and SS7 bricks.",
+                                "_id": "f5dfd64"
+                            },
+                            {
+                                "icon": {
+                                    "value": "bpi bpi-shield-check",
+                                    "library": "brickpoint"
+                                },
+                                "title": "Quality Commitment",
+                                "text": "Sorted batches, consistent firing and honest grading.",
+                                "_id": "de50321"
+                            },
+                            {
+                                "icon": {
+                                    "value": "bpi bpi-users",
+                                    "library": "brickpoint"
+                                },
+                                "title": "All Customer Sizes",
+                                "text": "Individual home builders to contractors and companies.",
+                                "_id": "86221c6"
+                            },
+                            {
+                                "icon": {
+                                    "value": "bpi bpi-target",
+                                    "library": "brickpoint"
+                                },
+                                "title": "Project Support",
+                                "text": "Stage-wise quotations and delivery coordination.",
+                                "_id": "2584450"
+                            }
+                        ]
+                    },
+                    "elements": []
+                }
+            ],
+            "isInner": false
+        },
+        {
+            "id": "8d87609",
+            "elType": "container",
+            "settings": {
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                    "unit": "px",
+                    "size": 0,
+                    "column": "0",
+                    "row": "0",
+                    "isLinked": true
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": true
+                },
+                "margin": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": true
+                }
+            },
+            "elements": [
+                {
+                    "id": "f2388a5",
+                    "elType": "widget",
+                    "widgetType": "bp_team",
+                    "settings": {
+                        "eyebrow": "Management",
+                        "title": "Leadership",
+                        "text": "Direct access to decision-makers — no layers between you and your quotation.",
+                        "items": [
+                            {
+                                "name": "Syed Iftikhar Haider",
+                                "role": "Chief Executive Officer",
+                                "image": {
+                                    "url": "demo:worker",
+                                    "id": 0
+                                },
+                                "text": "BrickPoint • 0315 2850818",
+                                "_id": "c5133c0"
+                            },
+                            {
+                                "name": "Qasim Iqbal",
+                                "role": "Sales Manager",
+                                "image": {
+                                    "url": "demo:brickMason",
+                                    "id": 0
+                                },
+                                "text": "BrickPoint • 0315 2850818",
+                                "_id": "55a016d"
+                            }
+                        ],
+                        "buttons": [
+                            {
+                                "text": "View Products",
+                                "url": {
+                                    "url": "archive:bp_product",
+                                    "is_external": "",
+                                    "nofollow": ""
+                                },
+                                "style": "brick",
+                                "icon": {
+                                    "value": "bpi bpi-arrow-right",
+                                    "library": "brickpoint"
+                                },
+                                "_id": "97f29c3"
+                            },
+                            {
+                                "text": "Contact Us",
+                                "url": {
+                                    "url": "page:contact",
+                                    "is_external": "",
+                                    "nofollow": ""
+                                },
+                                "style": "outline",
+                                "_id": "84260d6"
+                            },
+                            {
+                                "text": "Our Locations",
+                                "url": {
+                                    "url": "archive:bp_location",
+                                    "is_external": "",
+                                    "nofollow": ""
+                                },
+                                "style": "outline",
+                                "_id": "210f463"
+                            }
+                        ]
+                    },
+                    "elements": []
+                }
+            ],
+            "isInner": false
+        }
+    ]
+}

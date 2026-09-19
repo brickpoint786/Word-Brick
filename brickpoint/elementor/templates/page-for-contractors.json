@@ -1,0 +1,269 @@
+{
+    "title": "For Contractors",
+    "type": "page",
+    "version": "0.4",
+    "brickpoint": {
+        "key": "page-for-contractors",
+        "conditions": [],
+        "option": "",
+        "page_slug": "for-contractors"
+    },
+    "page_settings": {
+        "template": "elementor_header_footer"
+    },
+    "content": [
+        {
+            "id": "7db0fb4",
+            "elType": "container",
+            "settings": {
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                    "unit": "px",
+                    "size": 0,
+                    "column": "0",
+                    "row": "0",
+                    "isLinked": true
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": true
+                },
+                "margin": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": true
+                }
+            },
+            "elements": [
+                {
+                    "id": "33de287",
+                    "elType": "widget",
+                    "widgetType": "bp_page_header",
+                    "settings": {
+                        "bg_image": {
+                            "url": "demo:site",
+                            "id": 0
+                        },
+                        "size": "md",
+                        "eyebrow": "For Contractors",
+                        "title": "Bulk supply that keeps your sites moving",
+                        "text": "Project-based quotations, reliable availability and delivery coordination across brick and material categories.",
+                        "buttons": [
+                            {
+                                "text": "Get Contractor Rates",
+                                "url": {
+                                    "url": "wa:Assalam-o-Alaikum BrickPoint,\n\nI am a contractor and need bulk rates for my project.\n\nPlease share your contractor pricing process.\n\nThank you.",
+                                    "is_external": "on",
+                                    "nofollow": ""
+                                },
+                                "style": "whatsapp",
+                                "size": "lg",
+                                "_id": "2d7bd9b"
+                            },
+                            {
+                                "text": "Browse Products",
+                                "url": {
+                                    "url": "archive:bp_product",
+                                    "is_external": "",
+                                    "nofollow": ""
+                                },
+                                "style": "ghost",
+                                "size": "lg",
+                                "_id": "7d67cb7"
+                            }
+                        ]
+                    },
+                    "elements": []
+                }
+            ],
+            "isInner": false
+        },
+        {
+            "id": "b9fd4eb",
+            "elType": "container",
+            "settings": {
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                    "unit": "px",
+                    "size": 0,
+                    "column": "0",
+                    "row": "0",
+                    "isLinked": true
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": true
+                },
+                "margin": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": true
+                }
+            },
+            "elements": [
+                {
+                    "id": "72820b4",
+                    "elType": "widget",
+                    "widgetType": "bp_icon_cards",
+                    "settings": {
+                        "style": "white-3xl",
+                        "columns": "3",
+                        "eyebrow": "Contractor Benefits",
+                        "title": "Why contractors choose BrickPoint",
+                        "items": [
+                            {
+                                "icon": {
+                                    "value": "bpi bpi-check-circle",
+                                    "library": "brickpoint"
+                                },
+                                "icon_color": "green",
+                                "title": "Bulk material supply",
+                                "text": "Trolley, thousand-brick and tonnage quantities with sorted batches.",
+                                "_id": "4aed8f5"
+                            },
+                            {
+                                "icon": {
+                                    "value": "bpi bpi-check-circle",
+                                    "library": "brickpoint"
+                                },
+                                "icon_color": "green",
+                                "title": "Project-based quotations",
+                                "text": "Send your BOQ or stage list — get one consolidated quote.",
+                                "_id": "d974fc7"
+                            },
+                            {
+                                "icon": {
+                                    "value": "bpi bpi-check-circle",
+                                    "library": "brickpoint"
+                                },
+                                "icon_color": "green",
+                                "title": "Delivery coordination",
+                                "text": "Schedule deliveries stage-wise with site-location planning.",
+                                "_id": "a546509"
+                            },
+                            {
+                                "icon": {
+                                    "value": "bpi bpi-check-circle",
+                                    "library": "brickpoint"
+                                },
+                                "icon_color": "green",
+                                "title": "Reliable availability",
+                                "text": "Multiple bhatta units back consistent brick supply.",
+                                "_id": "e9007d1"
+                            },
+                            {
+                                "icon": {
+                                    "value": "bpi bpi-check-circle",
+                                    "library": "brickpoint"
+                                },
+                                "icon_color": "green",
+                                "title": "Full category range",
+                                "text": "Bricks, cement, aggregates, steel, pipes, electricals, finishes.",
+                                "_id": "68ee6b8"
+                            },
+                            {
+                                "icon": {
+                                    "value": "bpi bpi-check-circle",
+                                    "library": "brickpoint"
+                                },
+                                "icon_color": "green",
+                                "title": "Direct WhatsApp line",
+                                "text": "Fast answers on rates, stock and delivery slots.",
+                                "_id": "03d3b79"
+                            }
+                        ]
+                    },
+                    "elements": []
+                }
+            ],
+            "isInner": false
+        },
+        {
+            "id": "a282fc3",
+            "elType": "container",
+            "settings": {
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                    "unit": "px",
+                    "size": 0,
+                    "column": "0",
+                    "row": "0",
+                    "isLinked": true
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": true
+                },
+                "margin": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": true
+                }
+            },
+            "elements": [
+                {
+                    "id": "2dfabb9",
+                    "elType": "widget",
+                    "widgetType": "bp_cta_box",
+                    "settings": {
+                        "style": "dark",
+                        "title": "Share your BOQ today",
+                        "text": "Attach your material list on WhatsApp for a project quotation.",
+                        "buttons": [
+                            {
+                                "text": "Send BOQ on WhatsApp",
+                                "url": {
+                                    "url": "wa:Assalam-o-Alaikum BrickPoint,\n\nI am sharing my project BOQ for quotation.\n\nThank you.",
+                                    "is_external": "on",
+                                    "nofollow": ""
+                                },
+                                "style": "whatsapp",
+                                "_id": "cd239ed"
+                            },
+                            {
+                                "text": "Use Quote Form",
+                                "url": {
+                                    "url": "page:contact",
+                                    "is_external": "",
+                                    "nofollow": ""
+                                },
+                                "style": "brick",
+                                "icon": {
+                                    "value": "bpi bpi-arrow-right",
+                                    "library": "brickpoint"
+                                },
+                                "_id": "50a39c9"
+                            }
+                        ]
+                    },
+                    "elements": []
+                }
+            ],
+            "isInner": false
+        }
+    ]
+}

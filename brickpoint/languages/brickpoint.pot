@@ -1,0 +1,2395 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BrickPoint 2.0.0\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Domain: brickpoint\n"
+
+#: inc/demo/class-demo-importer.php
+msgid "%1$d / %2$d images"
+msgstr ""
+
+#: inc/demo/class-demo-importer.php
+msgid "%1$d / %2$d templates"
+msgstr ""
+
+#: inc/demo/class-demo-importer.php
+msgid "%1$d of %2$d images stored locally; the rest use their original source URLs"
+msgstr ""
+
+#: inc/demo/class-demo-importer.php
+msgid "%d Elementor documents (header, footer, singles, archives, 404, pages, cards)"
+msgstr ""
+
+#: inc/demo/class-demo-importer.php
+msgid "%d articles"
+msgstr ""
+
+#: inc/demo/class-demo-importer.php
+msgid "%d categories (15 product, 11 video, 3 project)"
+msgstr ""
+
+#: inc/demo/class-demo-importer.php
+msgid "%d illustrative project references"
+msgstr ""
+
+#: inc/demo/class-demo-importer.php
+msgid "%d images in Media Library (videos stay on source URLs)"
+msgstr ""
+
+#: inc/demo/class-demo-importer.php
+msgid "%d locations with Google Maps links"
+msgstr ""
+
+#: inc/demo/class-demo-importer.php
+msgid "%d pages"
+msgstr ""
+
+#: inc/demo/class-demo-importer.php
+msgid "%d products with WhatsApp ordering"
+msgstr ""
+
+#: inc/demo/class-demo-importer.php
+msgid "%d videos (thumbnails local, video files remote)"
+msgstr ""
+
+#: inc/admin.php
+msgid "15 product categories, 12 products (SKU, price, unit, specs, features, gallery, WhatsApp), 11 video categories, 6 videos, 6 project references, 4 locations, 4 blog articles."
+msgstr ""
+
+#: inc/template-functions.php
+msgid "About"
+msgstr ""
+
+#: template-parts/footer/site-footer.php
+msgid "About Us"
+msgstr ""
+
+#: inc/admin.php
+msgid "Active"
+msgstr ""
+
+#: inc/post-types.php
+msgid "Add New"
+msgstr ""
+
+#: inc/post-types.php
+msgid "Add New Location"
+msgstr ""
+
+#: inc/post-types.php
+msgid "Add New Product"
+msgstr ""
+
+#: inc/taxonomies.php
+msgid "Add New Product Category"
+msgstr ""
+
+#: inc/post-types.php
+msgid "Add New Project"
+msgstr ""
+
+#: inc/taxonomies.php
+msgid "Add New Project Category"
+msgstr ""
+
+#: inc/post-types.php
+msgid "Add New Video"
+msgstr ""
+
+#: inc/taxonomies.php
+msgid "Add New Video Category"
+msgstr ""
+
+#: inc/meta-fields.php
+msgid "Additional product images."
+msgstr ""
+
+#: inc/customizer.php inc/meta-fields.php
+msgid "Address"
+msgstr ""
+
+#: inc/template-functions.php template-parts/archive/blog.php
+msgid "All"
+msgstr ""
+
+#: inc/post-types.php inc/sections.php
+msgid "All Locations"
+msgstr ""
+
+#: inc/taxonomies.php
+msgid "All Product Categories"
+msgstr ""
+
+#: inc/post-types.php inc/template-functions.php template-parts/archive/loop.php template-parts/footer/site-footer.php
+msgid "All Products"
+msgstr ""
+
+#: inc/post-types.php
+msgid "All Projects"
+msgstr ""
+
+#: inc/post-types.php
+msgid "All Videos"
+msgstr ""
+
+#: inc/sections.php
+msgid "All categories"
+msgstr ""
+
+#: inc/admin.php
+msgid "All images downloaded into the Media Library (video files stay on their original URLs, thumbnails stored locally)."
+msgstr ""
+
+#: inc/admin.php
+msgid "Allowed (images will be stored in Media Library)"
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "Also accepts: page:slug, archive:bp_product, whatsapp, wa:Message text, tel, home"
+msgstr ""
+
+#: template-parts/card-project.php
+msgid "Ask about materials used"
+msgstr ""
+
+#: template-parts/single/post.php
+msgid "Ask on WhatsApp"
+msgstr ""
+
+#: template-parts/archive/loop.php
+msgid "Ask on WhatsApp →"
+msgstr ""
+
+#: inc/whatsapp.php
+msgid "Assalam-o-Alaikum BrickPoint,"
+msgstr ""
+
+#: inc/sections.php
+msgid "Author"
+msgstr ""
+
+#: inc/meta-fields.php
+msgid "Availability"
+msgstr ""
+
+#: 404.php
+msgid "Back to Home"
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "Background"
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "Background image"
+msgstr ""
+
+#: inc/meta-fields.php
+msgid "Badge"
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "Badge icon"
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "Badge text"
+msgstr ""
+
+#: inc/admin.php
+msgid "Blocked — original image URLs will be used"
+msgstr ""
+
+#: inc/sections.php inc/template-functions.php template-parts/footer/site-footer.php template-parts/header/site-header.php template-parts/single/post.php
+msgid "Blog"
+msgstr ""
+
+#: inc/setup.php
+msgid "Blog Sidebar"
+msgstr ""
+
+#: inc/demo/class-demo-importer.php
+msgid "Blog articles"
+msgstr ""
+
+#: inc/sections.php inc/template-functions.php
+msgid "Breadcrumb"
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "Breadcrumbs"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Brick (primary)"
+msgstr ""
+
+#: inc/sections.php
+msgid "Brick kiln production"
+msgstr ""
+
+#: inc/elementor-dynamic-tags.php inc/elementor.php
+msgid "BrickPoint"
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "BrickPoint Archive (header + grid)"
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "BrickPoint Audience Cards"
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "BrickPoint Blog Archive"
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "BrickPoint Blog Card"
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "BrickPoint Blog Grid"
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "BrickPoint Blog Post"
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "BrickPoint Breadcrumbs"
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "BrickPoint CTA Band"
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "BrickPoint CTA Box"
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "BrickPoint Category Grid"
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "BrickPoint Contact Section"
+msgstr ""
+
+#: inc/admin.php
+msgid "BrickPoint Demo"
+msgstr ""
+
+#: inc/admin.php inc/enqueue.php
+msgid "BrickPoint Demo Imported Successfully"
+msgstr ""
+
+#: elementor/dynamic-tags/class-field-tag.php
+msgid "BrickPoint Field"
+msgstr ""
+
+#: elementor/dynamic-tags/class-gallery-tag.php
+msgid "BrickPoint Gallery"
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "BrickPoint Hero"
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "BrickPoint Icon Cards"
+msgstr ""
+
+#: inc/icons.php
+msgid "BrickPoint Icons"
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "BrickPoint Image + Content"
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "BrickPoint Location Card"
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "BrickPoint Location Cards"
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "BrickPoint Location Details"
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "BrickPoint Material Groups"
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "BrickPoint Notice"
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "BrickPoint Page Header"
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "BrickPoint Product Card"
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "BrickPoint Product Details"
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "BrickPoint Product Grid"
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "BrickPoint Project Card"
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "BrickPoint Project Details"
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "BrickPoint Project Grid"
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "BrickPoint Prose Page"
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "BrickPoint Quotation Form"
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "BrickPoint SS7 Feature"
+msgstr ""
+
+#: inc/customizer.php
+msgid "BrickPoint Settings"
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "BrickPoint Site Footer"
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "BrickPoint Site Header"
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "BrickPoint Social Links"
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "BrickPoint Team"
+msgstr ""
+
+#: elementor/dynamic-tags/class-url-tag.php
+msgid "BrickPoint URL"
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "BrickPoint Video + Content"
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "BrickPoint Video Card"
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "BrickPoint Video Details"
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "BrickPoint Video Grid"
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "BrickPoint Video Showcase"
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "BrickPoint WhatsApp Button"
+msgstr ""
+
+#: inc/sections.php
+msgid "BrickPoint brick construction video"
+msgstr ""
+
+#: template-parts/header/logo.php
+msgid "BrickPoint home"
+msgstr ""
+
+#: inc/admin.php
+msgid "BrickPoint preview"
+msgstr ""
+
+#: inc/admin.php
+msgid "BrickPoint • Elementor Pro Theme"
+msgstr ""
+
+#: inc/admin.php
+msgid "BrickPoint:"
+msgstr ""
+
+#: inc/sections.php
+msgid "Bricklayers building a wall"
+msgstr ""
+
+#: template-parts/single/product.php
+msgid "Brochure"
+msgstr ""
+
+#: inc/meta-fields.php
+msgid "Brochure / PDF URL"
+msgstr ""
+
+#: 404.php
+msgid "Browse Products"
+msgstr ""
+
+#: template-parts/card-category.php
+msgid "Browse category"
+msgstr ""
+
+#: template-parts/single/project.php
+msgid "Build Like This — Get Quote"
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "Button"
+msgstr ""
+
+#: elementor/widgets/schema.php inc/meta-fields.php
+msgid "Button link"
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "Button style"
+msgstr ""
+
+#: elementor/widgets/schema.php inc/meta-fields.php
+msgid "Button text"
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "Buttons"
+msgstr ""
+
+#: inc/customizer.php
+msgid "CEO name"
+msgstr ""
+
+#: inc/sections.php template-parts/footer/site-footer.php
+msgid "CEO:"
+msgstr ""
+
+#: inc/meta-fields.php
+msgid "CTA button link"
+msgstr ""
+
+#: inc/meta-fields.php
+msgid "CTA button text"
+msgstr ""
+
+#: inc/meta-fields.php
+msgid "CTA link"
+msgstr ""
+
+#: inc/meta-fields.php
+msgid "CTA text"
+msgstr ""
+
+#: template-parts/single/location.php
+msgid "Call"
+msgstr ""
+
+#: template-parts/single/product.php
+msgid "Call Now"
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "Caption under video"
+msgstr ""
+
+#: inc/meta-fields.php
+msgid "Captions (VTT) URL"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Card radius (px)"
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "Card style"
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "Cards"
+msgstr ""
+
+#: inc/sections.php inc/template-functions.php
+msgid "Categories"
+msgstr ""
+
+#: inc/taxonomies.php
+msgid "Category banner"
+msgstr ""
+
+#: inc/taxonomies.php
+msgid "Category icon"
+msgstr ""
+
+#: inc/taxonomies.php
+msgid "Category image"
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "Category slug(s)"
+msgstr ""
+
+#: inc/whatsapp.php
+msgid "Category: %s"
+msgstr ""
+
+#: inc/sections.php inc/template-functions.php template-parts/footer/site-footer.php
+msgid "Chat on WhatsApp"
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "Checklist (one per line)"
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "Chips (one per line)"
+msgstr ""
+
+#: inc/meta-fields.php
+msgid "Clear"
+msgstr ""
+
+#: template-parts/archive/loop.php
+msgid "Clear filters"
+msgstr ""
+
+#: template-parts/header/site-header.php
+msgid "Close menu"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Colors & Design"
+msgstr ""
+
+#: elementor/widgets/class-section-widget.php
+msgid "Colours, typography and radius follow the BrickPoint global settings (Appearance → Customize → BrickPoint). Use the Advanced tab for spacing or custom CSS."
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "Columns"
+msgstr ""
+
+#: inc/meta-fields.php
+msgid "Comma separated. Leave empty to use same-category products."
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "Compact padding"
+msgstr ""
+
+#: inc/contact-form.php template-parts/footer/site-footer.php
+msgid "Company"
+msgstr ""
+
+#: inc/contact-form.php
+msgid "Company / contractor name"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Company units (comma separated)"
+msgstr ""
+
+#: inc/template-functions.php template-parts/footer/site-footer.php
+msgid "Construction Materials"
+msgstr ""
+
+#: inc/template-functions.php template-parts/card-location.php
+msgid "Contact"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Contact & WhatsApp"
+msgstr ""
+
+#: template-parts/footer/site-footer.php
+msgid "Contact Form"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Container width (px)"
+msgstr ""
+
+#: elementor/widgets/class-section-widget.php elementor/widgets/class-template-widget.php elementor/widgets/schema.php
+msgid "Content"
+msgstr ""
+
+#: template-parts/archive/loop.php template-parts/single/project.php
+msgid "Content notice:"
+msgstr ""
+
+#: inc/contact-form.php
+msgid "Continue on WhatsApp"
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "Count"
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "Count (0 = all)"
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "Dark"
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "Dark background"
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "Dark section"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Default WhatsApp message"
+msgstr ""
+
+#: inc/meta-fields.php
+msgid "Default: Build Like This — Get Quote"
+msgstr ""
+
+#: inc/meta-fields.php
+msgid "Default: Contact page"
+msgstr ""
+
+#: inc/meta-fields.php
+msgid "Default: Illustrative construction reference"
+msgstr ""
+
+#: inc/meta-fields.php
+msgid "Default: Products archive"
+msgstr ""
+
+#: inc/meta-fields.php
+msgid "Default: Related Products"
+msgstr ""
+
+#: inc/meta-fields.php
+msgid "Default: Request Quote"
+msgstr ""
+
+#: elementor/widgets/class-section-widget.php
+msgid "Design"
+msgstr ""
+
+#: inc/sections.php
+msgid "Direct Contact"
+msgstr ""
+
+#: template-parts/single/location.php
+msgid "Directions"
+msgstr ""
+
+#: inc/demo/class-demo-importer.php
+msgid "Downloading images to Media Library"
+msgstr ""
+
+#: inc/meta-fields.php
+msgid "Duration"
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "Dynamic (archive/term/page title)"
+msgstr ""
+
+#: elementor/widgets/class-template-widget.php
+msgid "Dynamic block: content comes from the current post / theme settings and is editable in WordPress."
+msgstr ""
+
+#: inc/admin.php
+msgid "Edit Footer"
+msgstr ""
+
+#: inc/admin.php
+msgid "Edit Header"
+msgstr ""
+
+#: inc/admin.php
+msgid "Edit Homepage"
+msgstr ""
+
+#: inc/post-types.php
+msgid "Edit Location"
+msgstr ""
+
+#: inc/post-types.php
+msgid "Edit Product"
+msgstr ""
+
+#: inc/taxonomies.php
+msgid "Edit Product Category"
+msgstr ""
+
+#: inc/post-types.php
+msgid "Edit Project"
+msgstr ""
+
+#: inc/taxonomies.php
+msgid "Edit Project Category"
+msgstr ""
+
+#: inc/post-types.php
+msgid "Edit Video"
+msgstr ""
+
+#: inc/taxonomies.php
+msgid "Edit Video Category"
+msgstr ""
+
+#: inc/admin.php
+msgid "Elementor"
+msgstr ""
+
+#: inc/admin.php
+msgid "Elementor Pro"
+msgstr ""
+
+#: inc/admin.php
+msgid "Elementor Pro Theme Builder: Header, Footer, Single Product/Video/Project/Location/Post, Archives, 404 — with display conditions; Homepage and all pages as Elementor documents; card & CTA templates in the Elementor library."
+msgstr ""
+
+#: inc/demo/class-demo-importer.php
+msgid "Elementor Pro detected"
+msgstr ""
+
+#: inc/demo/class-demo-importer.php
+msgid "Elementor Pro not active (Theme Builder JSON still imported)"
+msgstr ""
+
+#: inc/demo/class-demo-importer.php
+msgid "Elementor detected"
+msgstr ""
+
+#: inc/demo/class-demo-importer.php
+msgid "Elementor not active (PHP templates will render the design)"
+msgstr ""
+
+#: inc/demo/class-demo-importer.php
+msgid "Elementor not active — skipped (pages render with the theme templates; run again after installing Elementor)"
+msgstr ""
+
+#: inc/demo/class-demo-importer.php
+msgid "Elementor templates (header, footer, singles, archives, cards)"
+msgstr ""
+
+#: inc/contact-form.php inc/customizer.php
+msgid "Email"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Ember (accent)"
+msgstr ""
+
+#: inc/admin.php
+msgid "Environment"
+msgstr ""
+
+#: inc/sections.php
+msgid "Explore"
+msgstr ""
+
+#: template-parts/single/project.php
+msgid "External Link"
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "Eyebrow"
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "Eyebrow icon"
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "Eyebrow style"
+msgstr ""
+
+#: template-parts/footer/social-links.php
+msgid "Facebook"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Facebook URL"
+msgstr ""
+
+#: elementor/dynamic-tags/class-field-tag.php
+msgid "Fallback"
+msgstr ""
+
+#: inc/sections.php inc/template-functions.php template-parts/card-video.php template-parts/single/video.php
+msgid "Featured"
+msgstr ""
+
+#: template-parts/archive/loop.php
+msgid "Featured %s Video"
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "Featured only"
+msgstr ""
+
+#: inc/meta-fields.php
+msgid "Featured product"
+msgstr ""
+
+#: inc/meta-fields.php
+msgid "Featured project"
+msgstr ""
+
+#: inc/meta-fields.php
+msgid "Featured video"
+msgstr ""
+
+#: inc/taxonomies.php
+msgid "Featured video URL"
+msgstr ""
+
+#: elementor/dynamic-tags/class-field-tag.php elementor/dynamic-tags/class-gallery-tag.php elementor/dynamic-tags/class-url-tag.php
+msgid "Field"
+msgstr ""
+
+#: inc/contact-form.php inc/sections.php
+msgid "Fields: name, phone, email, company, required material, quantity, location, message."
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "Filter pills"
+msgstr ""
+
+#: inc/sections.php
+msgid "Flagship"
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "Float card 1 text"
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "Float card 1 title"
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "Float card 2 text"
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "Float card 2 title"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Floating WhatsApp button"
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "Floating cards"
+msgstr ""
+
+#: inc/setup.php
+msgid "Footer Menu"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Footer copyright ({year} is replaced)"
+msgstr ""
+
+#: template-parts/footer/site-footer.php template-parts/header/site-header.php
+msgid "For Builders"
+msgstr ""
+
+#: template-parts/header/site-header.php
+msgid "For Companies"
+msgstr ""
+
+#: template-parts/footer/site-footer.php
+msgid "For Construction Companies"
+msgstr ""
+
+#: template-parts/footer/site-footer.php template-parts/header/site-header.php
+msgid "For Contractors"
+msgstr ""
+
+#: inc/template-functions.php
+msgid "For Contractors →"
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "Form button"
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "Form intro"
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "Form title"
+msgstr ""
+
+#: inc/contact-form.php
+msgid "Full Name *"
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "Full card (all details)"
+msgstr ""
+
+#: inc/meta-fields.php
+msgid "Full wa.me URL. Leave empty to auto-generate."
+msgstr ""
+
+#: inc/meta-fields.php
+msgid "Gallery"
+msgstr ""
+
+#: inc/meta-fields.php
+msgid "Gallery images"
+msgstr ""
+
+#: template-parts/archive/loop.php
+msgid "Get %s Quote"
+msgstr ""
+
+#: template-parts/header/site-header.php
+msgid "Get Quote"
+msgstr ""
+
+#: template-parts/footer/site-footer.php
+msgid "Get a Quotation"
+msgstr ""
+
+#: template-parts/card-location.php
+msgid "Google Maps"
+msgstr ""
+
+#: inc/meta-fields.php
+msgid "Google Maps URL"
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "Groups"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Head office Google Maps URL"
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "Heading layout"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Hide"
+msgstr ""
+
+#: inc/sections.php inc/template-functions.php template-parts/single/location.php template-parts/single/post.php template-parts/single/product.php template-parts/single/project.php template-parts/single/video.php
+msgid "Home"
+msgstr ""
+
+#: inc/demo/class-demo-importer.php
+msgid "Homepage set to “Home”, blog page set to “Blog”, permalinks flushed"
+msgstr ""
+
+#: inc/demo/class-demo-importer.php
+msgid "Homepage, permalinks & cleanup"
+msgstr ""
+
+#: inc/whatsapp.php
+msgid "I am interested in the following product:"
+msgstr ""
+
+#: inc/whatsapp.php
+msgid "I want a quotation for: %s"
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "Icon"
+msgstr ""
+
+#: inc/taxonomies.php
+msgid "Icon key (layers, award, package, mountain, waves, anchor, zap, droplets, flask, shield, plug, paintbrush, lightbulb, toggle, boxes)."
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "Icon position"
+msgstr ""
+
+#: inc/meta-fields.php
+msgid "Illustrative / inspiration visual (not a claimed BrickPoint project)"
+msgstr ""
+
+#: template-parts/card-project.php
+msgid "Illustrative construction reference"
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "Image"
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "Image alt"
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "Image on right"
+msgstr ""
+
+#: inc/admin.php
+msgid "Import Demo"
+msgstr ""
+
+#: inc/admin.php
+msgid "Import progress"
+msgstr ""
+
+#: inc/enqueue.php
+msgid "Import stopped with an error. You can safely click Import again to resume."
+msgstr ""
+
+#: inc/admin.php
+msgid "Import the complete demo website (pages, products, Elementor templates, menus) in one click."
+msgstr ""
+
+#: inc/enqueue.php
+msgid "Importing…"
+msgstr ""
+
+#: inc/admin.php
+msgid "Imports the complete BrickPoint website: products, categories, videos, projects, locations, blog posts, media, menus, pages, Elementor Pro header/footer/archive/single templates, theme options and WhatsApp settings."
+msgstr ""
+
+#: elementor/dynamic-tags/class-gallery-tag.php
+msgid "Include featured image first"
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "Info card title"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Ink (dark)"
+msgstr ""
+
+#: inc/contact-form.php
+msgid "Inquiries"
+msgstr ""
+
+#: inc/contact-form.php
+msgid "Inquiry"
+msgstr ""
+
+#: inc/contact-form.php
+msgid "Inquiry received!"
+msgstr ""
+
+#: template-parts/footer/social-links.php
+msgid "Instagram"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Instagram URL"
+msgstr ""
+
+#: inc/demo/class-demo-importer.php
+msgid "Insufficient permissions."
+msgstr ""
+
+#: inc/meta-fields.php
+msgid "International format without +. Leave empty to use the site number."
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "Intro"
+msgstr ""
+
+#: template-parts/single/product.php
+msgid "Key Features"
+msgstr ""
+
+#: inc/meta-fields.php
+msgid "Key features"
+msgstr ""
+
+#: inc/admin.php
+msgid "Last import: %s"
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "Latest video cards"
+msgstr ""
+
+#: inc/meta-fields.php
+msgid "Latitude"
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "Learn More"
+msgstr ""
+
+#: inc/sections.php
+msgid "Learn more"
+msgstr ""
+
+#: inc/meta-fields.php
+msgid "Leave empty to auto-generate the product inquiry message."
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "Link"
+msgstr ""
+
+#: inc/meta-fields.php inc/post-types.php template-parts/single/location.php
+msgid "Location"
+msgstr ""
+
+#: inc/meta-fields.php
+msgid "Location Details"
+msgstr ""
+
+#: inc/meta-fields.php
+msgid "Location video URL"
+msgstr ""
+
+#: inc/elementor-dynamic-tags.php
+msgid "Location: Address"
+msgstr ""
+
+#: inc/elementor-dynamic-tags.php
+msgid "Location: Badge"
+msgstr ""
+
+#: inc/elementor-dynamic-tags.php
+msgid "Location: Google Maps URL"
+msgstr ""
+
+#: inc/elementor-dynamic-tags.php
+msgid "Location: Hours"
+msgstr ""
+
+#: inc/elementor-dynamic-tags.php
+msgid "Location: Phone"
+msgstr ""
+
+#: inc/elementor-dynamic-tags.php
+msgid "Location: Video URL"
+msgstr ""
+
+#: inc/post-types.php inc/template-functions.php template-parts/footer/site-footer.php template-parts/single/location.php
+msgid "Locations"
+msgstr ""
+
+#: inc/demo/class-demo-importer.php
+msgid "Locations (bhattas & office)"
+msgstr ""
+
+#: inc/meta-fields.php
+msgid "Longitude"
+msgstr ""
+
+#: inc/meta-fields.php
+msgid "MP4 / YouTube / Vimeo"
+msgstr ""
+
+#: inc/meta-fields.php
+msgid "MP4 / YouTube / Vimeo. The thumbnail is the Featured Image."
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "Main badge"
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "Main image"
+msgstr ""
+
+#: template-parts/header/site-header.php
+msgid "Main navigation"
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "Main poster"
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "Main video URL"
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "Map URL (blank = theme setting)"
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "Map card text"
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "Map card title"
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "Marquee"
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "Marquee items (one per line)"
+msgstr ""
+
+#: template-parts/single/project.php
+msgid "Materials"
+msgstr ""
+
+#: inc/admin.php
+msgid "Max execution time"
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "Members"
+msgstr ""
+
+#: inc/demo/class-demo-importer.php
+msgid "Menus (Primary, Footer, Mobile)"
+msgstr ""
+
+#: inc/admin.php
+msgid "Menus (Primary, Footer, Mobile), homepage & blog page, permalinks, WhatsApp/contact/social settings, Elementor kit colours & fonts."
+msgstr ""
+
+#: inc/contact-form.php
+msgid "Message"
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "Meta line"
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "Mini 1 caption"
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "Mini 1 poster"
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "Mini 1 text"
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "Mini 1 video URL"
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "Mini 2 caption"
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "Mini 2 poster"
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "Mini 2 text"
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "Mini 2 video URL"
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "Mini cards (Mission / Vision / Values)"
+msgstr ""
+
+#: inc/setup.php
+msgid "Mobile Menu"
+msgstr ""
+
+#: template-parts/header/site-header.php
+msgid "Mobile navigation"
+msgstr ""
+
+#: template-parts/single/project.php
+msgid "More References"
+msgstr ""
+
+#: template-parts/single/video.php
+msgid "More Videos"
+msgstr ""
+
+#: inc/contact-form.php
+msgid "Name and phone are required."
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "Narrow container"
+msgstr ""
+
+#: inc/post-types.php
+msgid "New Product"
+msgstr ""
+
+#: inc/contact-form.php
+msgid "New quotation request"
+msgstr ""
+
+#: inc/template-functions.php
+msgid "Next →"
+msgstr ""
+
+#: template-parts/archive/blog.php
+msgid "No articles found."
+msgstr ""
+
+#: template-parts/archive/loop.php
+msgid "No items found in this filter yet."
+msgstr ""
+
+#: inc/post-types.php
+msgid "No locations found"
+msgstr ""
+
+#: inc/sections.php
+msgid "No product categories yet. Run the BrickPoint demo import or add categories under Products → Product Categories."
+msgstr ""
+
+#: inc/post-types.php
+msgid "No products found"
+msgstr ""
+
+#: inc/sections.php
+msgid "No products found yet. Add products under Products → Add New or run the demo import."
+msgstr ""
+
+#: inc/post-types.php
+msgid "No projects found"
+msgstr ""
+
+#: inc/post-types.php
+msgid "No videos found"
+msgstr ""
+
+#: inc/admin.php
+msgid "Not active — header/footer/archives use theme templates (Theme Builder JSON still imported)"
+msgstr ""
+
+#: inc/admin.php
+msgid "Not active — pages fall back to theme templates"
+msgstr ""
+
+#: inc/demo/class-demo-importer.php
+msgid "Not allowed."
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "Note below cards (amber box)"
+msgstr ""
+
+#: inc/sections.php
+msgid "Nothing here yet."
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "Notice (amber box)"
+msgstr ""
+
+#: elementor/widgets/schema.php inc/sections.php
+msgid "Office Map"
+msgstr ""
+
+#: inc/meta-fields.php
+msgid "One per line"
+msgstr ""
+
+#: inc/meta-fields.php
+msgid "One per line as Label: Value"
+msgstr ""
+
+#: inc/admin.php
+msgid "One-Click Demo Import"
+msgstr ""
+
+#: inc/admin.php
+msgid "Open Elementor"
+msgstr ""
+
+#: inc/sections.php
+msgid "Open Google Maps"
+msgstr ""
+
+#: template-parts/header/site-header.php
+msgid "Open menu"
+msgstr ""
+
+#: inc/sections.php
+msgid "Open the verified office location in Google Maps."
+msgstr ""
+
+#: inc/meta-fields.php
+msgid "Opening hours"
+msgstr ""
+
+#: inc/taxonomies.php
+msgid "Optional MP4 / YouTube / Vimeo URL shown on the category page."
+msgstr ""
+
+#: inc/meta-fields.php
+msgid "Optional external link."
+msgstr ""
+
+#: inc/taxonomies.php
+msgid "Optional prefilled WhatsApp message for this category."
+msgstr ""
+
+#: inc/taxonomies.php
+msgid "Optional wide banner used behind the category page title."
+msgstr ""
+
+#: elementor/widgets/schema.php inc/whatsapp.php
+msgid "Order on WhatsApp"
+msgstr ""
+
+#: template-parts/single/location.php
+msgid "Other Locations"
+msgstr ""
+
+#: template-parts/header/site-header.php
+msgid "Our Bhattas"
+msgstr ""
+
+#: template-parts/footer/site-footer.php
+msgid "Our Units"
+msgstr ""
+
+#: inc/admin.php
+msgid "PHP"
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "Padding"
+msgstr ""
+
+#: 404.php
+msgid "Page not found"
+msgstr ""
+
+#: inc/demo/class-demo-importer.php
+msgid "Pages"
+msgstr ""
+
+#: inc/admin.php
+msgid "Pages: Home, About, Products, Categories, SS7 Bricks, Construction Materials, For Contractors, For Builders, For Construction Companies, Projects, Videos, Locations, Blog, Contact, Privacy Policy, Terms & Conditions."
+msgstr ""
+
+#: inc/meta-fields.php
+msgid "Phone"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Phone (display)"
+msgstr ""
+
+#: inc/contact-form.php
+msgid "Phone *"
+msgstr ""
+
+#: inc/whatsapp.php
+msgid "Please quote"
+msgstr ""
+
+#: inc/whatsapp.php
+msgid "Please share availability, delivery details, and final quotation."
+msgstr ""
+
+#: inc/whatsapp.php
+msgid "Please share price, availability and delivery details."
+msgstr ""
+
+#: elementor/widgets/class-template-widget.php
+msgid "Post ID used when editing outside a single template. Front end always uses the current post."
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "Poster"
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "Pre-filled message (blank = current product / default)"
+msgstr ""
+
+#: template-parts/footer/site-footer.php
+msgid "Premium bricks and reliable construction materials for homes, commercial developments, and large-scale building projects."
+msgstr ""
+
+#: inc/demo/class-demo-importer.php
+msgid "Preparing & checking requirements"
+msgstr ""
+
+#: elementor/widgets/class-template-widget.php
+msgid "Preview item (editor only)"
+msgstr ""
+
+#: inc/meta-fields.php
+msgid "Price"
+msgstr ""
+
+#: inc/meta-fields.php
+msgid "Price label"
+msgstr ""
+
+#: template-parts/card-product.php template-parts/single/product.php
+msgid "Price on request"
+msgstr ""
+
+#: inc/whatsapp.php
+msgid "Price: %s"
+msgstr ""
+
+#: inc/setup.php
+msgid "Primary Menu"
+msgstr ""
+
+#: inc/demo/class-demo-importer.php
+msgid "Primary, Footer and Mobile menus assigned"
+msgstr ""
+
+#: template-parts/footer/site-footer.php
+msgid "Privacy Policy"
+msgstr ""
+
+#: inc/post-types.php
+msgid "Product"
+msgstr ""
+
+#: inc/post-types.php
+msgid "Product Archives"
+msgstr ""
+
+#: inc/taxonomies.php template-parts/footer/site-footer.php
+msgid "Product Categories"
+msgstr ""
+
+#: inc/taxonomies.php
+msgid "Product Category"
+msgstr ""
+
+#: template-parts/single/product.php
+msgid "Product Description"
+msgstr ""
+
+#: inc/meta-fields.php
+msgid "Product Details"
+msgstr ""
+
+#: template-parts/footer/site-footer.php
+msgid "Product Videos"
+msgstr ""
+
+#: elementor/dynamic-tags/class-gallery-tag.php
+msgid "Product gallery"
+msgstr ""
+
+#: inc/meta-fields.php
+msgid "Product video URL"
+msgstr ""
+
+#: inc/demo/class-demo-importer.php
+msgid "Product, video & project categories"
+msgstr ""
+
+#: inc/whatsapp.php
+msgid "Product: %s"
+msgstr ""
+
+#: inc/elementor-dynamic-tags.php
+msgid "Product: Availability"
+msgstr ""
+
+#: inc/elementor-dynamic-tags.php
+msgid "Product: Badge"
+msgstr ""
+
+#: inc/elementor-dynamic-tags.php
+msgid "Product: Brochure URL"
+msgstr ""
+
+#: inc/elementor-dynamic-tags.php
+msgid "Product: Features (list)"
+msgstr ""
+
+#: inc/elementor-dynamic-tags.php
+msgid "Product: Gallery"
+msgstr ""
+
+#: inc/elementor-dynamic-tags.php
+msgid "Product: Price"
+msgstr ""
+
+#: inc/elementor-dynamic-tags.php
+msgid "Product: Price label"
+msgstr ""
+
+#: inc/elementor-dynamic-tags.php
+msgid "Product: SKU"
+msgstr ""
+
+#: inc/elementor-dynamic-tags.php
+msgid "Product: Short description"
+msgstr ""
+
+#: inc/elementor-dynamic-tags.php
+msgid "Product: Specifications (table)"
+msgstr ""
+
+#: inc/elementor-dynamic-tags.php
+msgid "Product: Unit"
+msgstr ""
+
+#: inc/elementor-dynamic-tags.php
+msgid "Product: Video URL"
+msgstr ""
+
+#: inc/elementor-dynamic-tags.php
+msgid "Product: WhatsApp order URL"
+msgstr ""
+
+#: inc/post-types.php inc/template-functions.php template-parts/footer/site-footer.php template-parts/single/product.php
+msgid "Products"
+msgstr ""
+
+#: inc/demo/class-demo-importer.php
+msgid "Products (SKU, prices, specs, WhatsApp)"
+msgstr ""
+
+#: template-parts/archive/loop.php
+msgid "Products in this category are being added."
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "Products per group"
+msgstr ""
+
+#: inc/post-types.php
+msgid "Project"
+msgstr ""
+
+#: inc/taxonomies.php
+msgid "Project Categories"
+msgstr ""
+
+#: inc/taxonomies.php
+msgid "Project Category"
+msgstr ""
+
+#: inc/meta-fields.php
+msgid "Project Details"
+msgstr ""
+
+#: elementor/dynamic-tags/class-gallery-tag.php
+msgid "Project gallery"
+msgstr ""
+
+#: inc/meta-fields.php
+msgid "Project link"
+msgstr ""
+
+#: inc/demo/class-demo-importer.php
+msgid "Project references"
+msgstr ""
+
+#: inc/meta-fields.php
+msgid "Project video URL"
+msgstr ""
+
+#: template-parts/archive/loop.php
+msgid "Project visuals on this page are labelled “Illustrative construction reference” or “Project inspiration visual”. BrickPoint does not claim supply to any named society, developer or project unless verified by management."
+msgstr ""
+
+#: inc/elementor-dynamic-tags.php
+msgid "Project: Gallery"
+msgstr ""
+
+#: inc/elementor-dynamic-tags.php
+msgid "Project: Location"
+msgstr ""
+
+#: inc/elementor-dynamic-tags.php
+msgid "Project: Status"
+msgstr ""
+
+#: inc/elementor-dynamic-tags.php
+msgid "Project: Video URL"
+msgstr ""
+
+#: inc/post-types.php inc/sections.php inc/template-functions.php template-parts/footer/site-footer.php template-parts/single/project.php
+msgid "Projects"
+msgstr ""
+
+#: inc/contact-form.php
+msgid "Quantity"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Quotation form recipient email"
+msgstr ""
+
+#: inc/contact-form.php
+msgid "Quotation: %1$s — %2$s"
+msgstr ""
+
+#: inc/sections.php
+msgid "Quote"
+msgstr ""
+
+#: inc/admin.php
+msgid "Re-import Demo"
+msgstr ""
+
+#: inc/template-functions.php template-parts/single/post.php
+msgid "Related Articles"
+msgstr ""
+
+#: template-parts/single/product.php template-parts/single/video.php
+msgid "Related Products"
+msgstr ""
+
+#: inc/meta-fields.php
+msgid "Related product IDs"
+msgstr ""
+
+#: inc/admin.php
+msgid "Remote downloads"
+msgstr ""
+
+#: inc/taxonomies.php
+msgid "Remove"
+msgstr ""
+
+#: template-parts/footer/site-footer.php
+msgid "Request Quotation"
+msgstr ""
+
+#: template-parts/header/site-header.php template-parts/single/product.php
+msgid "Request Quote"
+msgstr ""
+
+#: elementor/widgets/schema.php inc/contact-form.php inc/sections.php
+msgid "Request a Quotation"
+msgstr ""
+
+#: template-parts/header/site-header.php
+msgid "Request a Quote"
+msgstr ""
+
+#: inc/contact-form.php
+msgid "Required Material"
+msgstr ""
+
+#: inc/sections.php
+msgid "Results for “%s”"
+msgstr ""
+
+#: inc/admin.php
+msgid "Retry Import"
+msgstr ""
+
+#: inc/admin.php
+msgid "Run Import Again"
+msgstr ""
+
+#: inc/meta-fields.php
+msgid "SKU / Reference"
+msgstr ""
+
+#: template-parts/single/product.php
+msgid "SKU:"
+msgstr ""
+
+#: inc/sections.php inc/template-functions.php template-parts/footer/site-footer.php
+msgid "SS7 Bricks"
+msgstr ""
+
+#: inc/sections.php
+msgid "SS7 brick close-up"
+msgstr ""
+
+#: inc/sections.php
+msgid "SS7 brick close-up, premium red bricks"
+msgstr ""
+
+#: inc/sections.php
+msgid "SS7 brick gallery"
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "SS7 eyebrow"
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "SS7 image"
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "SS7 link"
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "SS7 link text"
+msgstr ""
+
+#: inc/sections.php
+msgid "SS7 red bricks stacked"
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "SS7 title"
+msgstr ""
+
+#: inc/admin.php
+msgid "Safe to run again: existing demo items are updated, never duplicated."
+msgstr ""
+
+#: inc/customizer.php
+msgid "Sales Manager name"
+msgstr ""
+
+#: inc/sections.php
+msgid "Sales Manager:"
+msgstr ""
+
+#: 404.php inc/sections.php inc/template-functions.php
+msgid "Search"
+msgstr ""
+
+#: inc/post-types.php
+msgid "Search Locations"
+msgstr ""
+
+#: inc/post-types.php
+msgid "Search Products"
+msgstr ""
+
+#: inc/post-types.php
+msgid "Search Projects"
+msgstr ""
+
+#: inc/post-types.php
+msgid "Search Videos"
+msgstr ""
+
+#: inc/sections.php
+msgid "Search articles…"
+msgstr ""
+
+#: 404.php
+msgid "Search…"
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "Section padding"
+msgstr ""
+
+#: inc/taxonomies.php
+msgid "Select image"
+msgstr ""
+
+#: inc/meta-fields.php
+msgid "Select images"
+msgstr ""
+
+#: inc/contact-form.php
+msgid "Select material…"
+msgstr ""
+
+#: inc/contact-form.php inc/sections.php
+msgid "Send Quotation Request"
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "Send Request"
+msgstr ""
+
+#: template-parts/footer/site-footer.php
+msgid "Send your material list on WhatsApp and get availability, delivery details and final quotation."
+msgstr ""
+
+#: inc/contact-form.php
+msgid "Share your full material list, sizes and timeline…"
+msgstr ""
+
+#: template-parts/single/product.php
+msgid "Share:"
+msgstr ""
+
+#: template-parts/single/post.php
+msgid "Shop Materials"
+msgstr ""
+
+#: inc/meta-fields.php
+msgid "Short description"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Show"
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "Show SS7 floating card"
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "Show search form"
+msgstr ""
+
+#: template-parts/archive/loop.php
+msgid "Showing %1$s %2$s"
+msgstr ""
+
+#: inc/taxonomies.php
+msgid "Shown on category cards (16:10). Select from the Media Library."
+msgstr ""
+
+#: inc/meta-fields.php
+msgid "Shown on product cards."
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "Side image (large size)"
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "Side image tags (one per line)"
+msgstr ""
+
+#: inc/contact-form.php
+msgid "Site / Delivery Location"
+msgstr ""
+
+#: inc/elementor-dynamic-tags.php
+msgid "Site: Address"
+msgstr ""
+
+#: inc/elementor-dynamic-tags.php
+msgid "Site: CEO"
+msgstr ""
+
+#: inc/elementor-dynamic-tags.php
+msgid "Site: Email"
+msgstr ""
+
+#: inc/elementor-dynamic-tags.php
+msgid "Site: Facebook URL"
+msgstr ""
+
+#: inc/elementor-dynamic-tags.php
+msgid "Site: Instagram URL"
+msgstr ""
+
+#: inc/elementor-dynamic-tags.php
+msgid "Site: Office map URL"
+msgstr ""
+
+#: inc/elementor-dynamic-tags.php
+msgid "Site: Phone (display)"
+msgstr ""
+
+#: inc/elementor-dynamic-tags.php
+msgid "Site: Phone (tel: link)"
+msgstr ""
+
+#: inc/elementor-dynamic-tags.php
+msgid "Site: Sales manager"
+msgstr ""
+
+#: inc/elementor-dynamic-tags.php
+msgid "Site: TikTok URL"
+msgstr ""
+
+#: inc/elementor-dynamic-tags.php
+msgid "Site: WhatsApp URL"
+msgstr ""
+
+#: inc/elementor-dynamic-tags.php
+msgid "Site: X / Twitter URL"
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "Size"
+msgstr ""
+
+#: header.php
+msgid "Skip to content"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Social Links"
+msgstr ""
+
+#: inc/contact-form.php
+msgid "Something went wrong. Please try WhatsApp instead."
+msgstr ""
+
+#: inc/taxonomies.php
+msgid "Sort order"
+msgstr ""
+
+#: inc/meta-fields.php
+msgid "Source type"
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "Spec boxes"
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "Specific product IDs (comma separated)"
+msgstr ""
+
+#: inc/meta-fields.php template-parts/single/product.php
+msgid "Specifications"
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "Split layout (text left, buttons right)"
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "Stat label"
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "Stat number"
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "Stat suffix"
+msgstr ""
+
+#: inc/meta-fields.php
+msgid "Status label"
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "Style"
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "Talk to BrickPoint"
+msgstr ""
+
+#: template-parts/footer/site-footer.php
+msgid "Terms & Conditions"
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "Text"
+msgstr ""
+
+#: inc/contact-form.php
+msgid "Thank you — our sales team will contact you shortly. For an instant response, message us on WhatsApp."
+msgstr ""
+
+#: inc/whatsapp.php
+msgid "Thank you."
+msgstr ""
+
+#: 404.php
+msgid "The page you are looking for has moved or does not exist. Try a search or head back to the catalogue."
+msgstr ""
+
+#: inc/admin.php
+msgid "Theme Settings"
+msgstr ""
+
+#: inc/demo/class-demo-importer.php
+msgid "Theme options (WhatsApp, contact, social)"
+msgstr ""
+
+#: template-parts/single/project.php
+msgid "This is an illustrative construction reference / project inspiration visual. BrickPoint does not claim supply to this project unless verified by management."
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "Thumbnails"
+msgstr ""
+
+#: template-parts/footer/social-links.php
+msgid "TikTok"
+msgstr ""
+
+#: inc/customizer.php
+msgid "TikTok URL"
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "Title"
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "Trust badges"
+msgstr ""
+
+#: inc/meta-fields.php
+msgid "Unit"
+msgstr ""
+
+#: inc/whatsapp.php
+msgid "Unit: %s"
+msgstr ""
+
+#: inc/demo/class-demo-importer.php
+msgid "Unknown step."
+msgstr ""
+
+#: inc/meta-fields.php
+msgid "Use the main editor for the full description and the Featured Image panel for the main image / video thumbnail."
+msgstr ""
+
+#: inc/post-types.php
+msgid "Video"
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "Video Card"
+msgstr ""
+
+#: inc/taxonomies.php
+msgid "Video Categories"
+msgstr ""
+
+#: inc/taxonomies.php
+msgid "Video Category"
+msgstr ""
+
+#: inc/meta-fields.php
+msgid "Video Details"
+msgstr ""
+
+#: elementor/widgets/schema.php inc/meta-fields.php
+msgid "Video URL"
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "Video URL (mp4 / YouTube / Vimeo)"
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "Video eyebrow"
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "Video link"
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "Video on left"
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "Video poster"
+msgstr ""
+
+#: elementor/widgets/schema.php
+msgid "Video title"
+msgstr ""
+
+#: inc/elementor-dynamic-tags.php
+msgid "Video: Button link"
+msgstr ""
+
+#: inc/elementor-dynamic-tags.php
+msgid "Video: Button text"
+msgstr ""
+
+#: inc/elementor-dynamic-tags.php
+msgid "Video: Duration"
+msgstr ""
+
+#: inc/elementor-dynamic-tags.php
+msgid "Video: URL"
+msgstr ""
+
+#: inc/demo/class-demo-importer.php inc/post-types.php inc/sections.php inc/template-functions.php template-parts/header/site-header.php template-parts/single/video.php
+msgid "Videos"
+msgstr ""
+
+#: inc/post-types.php template-parts/card-product.php
+msgid "View Product"
+msgstr ""
+
+#: inc/sections.php
+msgid "View SS7 range →"
+msgstr ""
+
+#: inc/admin.php
+msgid "View Website"
+msgstr ""
+
+#: template-parts/single/location.php template-parts/single/post.php template-parts/single/product.php template-parts/single/project.php template-parts/single/video.php
+msgid "View all"
+msgstr ""
+
+#: inc/sections.php
+msgid "Watch all videos"
+msgstr ""
+
+#: inc/admin.php
+msgid "What gets imported"
+msgstr ""
+
+#: template-parts/card-location.php template-parts/card-product.php template-parts/single/location.php
+msgid "WhatsApp"
+msgstr ""
+
+#: inc/demo/class-demo-importer.php
+msgid "WhatsApp 0315 2850818, contact & social links set"
+msgstr ""
+
+#: template-parts/single/product.php
+msgid "WhatsApp Inquiry"
+msgstr ""
+
+#: template-parts/header/site-header.php
+msgid "WhatsApp Us"
+msgstr ""
+
+#: inc/customizer.php
+msgid "WhatsApp green"
+msgstr ""
+
+#: inc/meta-fields.php
+msgid "WhatsApp link override"
+msgstr ""
+
+#: inc/meta-fields.php inc/taxonomies.php
+msgid "WhatsApp message override"
+msgstr ""
+
+#: inc/meta-fields.php
+msgid "WhatsApp number"
+msgstr ""
+
+#: inc/customizer.php
+msgid "WhatsApp number (international, no +)"
+msgstr ""
+
+#: template-parts/header/site-header.php
+msgid "WhatsApp:"
+msgstr ""
+
+#: template-parts/footer/site-footer.php
+msgid "Who We Serve"
+msgstr ""
+
+#: inc/admin.php
+msgid "WordPress"
+msgstr ""
+
+#: inc/customizer.php
+msgid "X / Twitter URL"
+msgstr ""
+
+#: template-parts/footer/social-links.php
+msgid "X Twitter"
+msgstr ""
+
+#: inc/contact-form.php
+msgid "Your name"
+msgstr ""
+
+#: inc/admin.php
+msgid "Your website is ready. Edit any page with Elementor, or update contact details under Appearance → Customize → BrickPoint."
+msgstr ""
+
+#: inc/meta-fields.php
+msgid "e.g. 1000 bricks, bag, trolley, kg"
+msgstr ""
+
+#: inc/meta-fields.php
+msgid "e.g. 2:30"
+msgstr ""
+
+#: inc/contact-form.php
+msgid "e.g. 50,000 bricks / 200 bags"
+msgstr ""
+
+#: inc/meta-fields.php
+msgid "e.g. Best Seller, Popular, New"
+msgstr ""
+
+#: inc/meta-fields.php
+msgid "e.g. DHA Lahore"
+msgstr ""
+
+#: inc/contact-form.php
+msgid "e.g. DHA Phase 6, Lahore"
+msgstr ""
+
+#: inc/meta-fields.php
+msgid "e.g. In Stock"
+msgstr ""
+
+#: inc/meta-fields.php
+msgid "e.g. Market-competitive bulk pricing"
+msgstr ""
+
+#: inc/meta-fields.php
+msgid "e.g. Rs. 14,500 or \"Rs. Contact for Rate\". Leave empty for \"Price on request\"."
+msgstr ""
+
+#: inc/meta-fields.php
+msgid "e.g. Unit 1, Head Office"
+msgstr ""
+
+#: template-parts/archive/loop.php
+msgid "in"
+msgstr ""
+
+#: inc/meta-fields.php
+msgid "mp4, youtube or vimeo (auto-detected when empty)."
+msgstr ""
+
+#: template-parts/archive/loop.php
+msgid "products"
+msgstr ""
+
+#: template-parts/archive/loop.php
+msgid "videos"
+msgstr ""
+
+#: template-parts/single/post.php
+msgid "← All Articles"
+msgstr ""
+
+#: template-parts/single/project.php
+msgid "← All Projects"
+msgstr ""
+
+#: template-parts/single/video.php
+msgid "← All Videos"
+msgstr ""
+
+#: inc/template-functions.php
+msgid "← Previous"
+msgstr ""

@@ -1,0 +1,61 @@
+{
+    "title": "Terms and Conditions",
+    "type": "page",
+    "version": "0.4",
+    "brickpoint": {
+        "key": "page-terms-and-conditions",
+        "conditions": [],
+        "option": "",
+        "page_slug": "terms-and-conditions"
+    },
+    "page_settings": {
+        "template": "elementor_header_footer"
+    },
+    "content": [
+        {
+            "id": "92b22f3",
+            "elType": "container",
+            "settings": {
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                    "unit": "px",
+                    "size": 0,
+                    "column": "0",
+                    "row": "0",
+                    "isLinked": true
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": true
+                },
+                "margin": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": true
+                }
+            },
+            "elements": [
+                {
+                    "id": "e9750b0",
+                    "elType": "widget",
+                    "widgetType": "bp_prose",
+                    "settings": {
+                        "eyebrow": "Legal",
+                        "title": "Terms & Conditions",
+                        "content": "<p>By requesting quotations or purchasing materials from BrickPoint, you agree to the following terms.</p><h2>Quotations &amp; Pricing</h2><ul><li>All prices shared on WhatsApp, phone or this website are quotations valid for the stated period only.</li><li>Material rates may change with market conditions; final rates are confirmed before dispatch.</li><li>Delivery charges (if any) are quoted separately based on site location and quantity.</li></ul><h2>Orders &amp; Payment</h2><ul><li>Orders are confirmed after mutual agreement on rate, quantity and delivery schedule.</li><li>Payment terms are agreed per order. This website has no online checkout or payment gateway.</li></ul><h2>Delivery</h2><ul><li>Delivery timelines are estimated and coordinated per order; they are not guaranteed unless expressly confirmed in writing.</li><li>Customers should ensure site access and unloading arrangements.</li></ul><h2>Quality</h2><ul><li>Natural variation in kiln-fired brick colour is normal.</li><li>Grade and sorting are as described in the quotation; please inspect on delivery and report issues promptly.</li></ul><h2>Content Notice</h2><p>Project visuals labelled “Illustrative construction reference” are inspiration references, not claims of completed supply, unless verified by BrickPoint management.</p><h2>Contact</h2><p>Questions: info@brickpoint.pk • 0315 2850818.</p><p class=\"bp-muted sm\">Last updated: 2026. Editable from the WordPress page editor.</p>"
+                    },
+                    "elements": []
+                }
+            ],
+            "isInner": false
+        }
+    ]
+}

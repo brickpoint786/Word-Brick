@@ -1,0 +1,269 @@
+{
+    "title": "For Construction Companies",
+    "type": "page",
+    "version": "0.4",
+    "brickpoint": {
+        "key": "page-for-companies",
+        "conditions": [],
+        "option": "",
+        "page_slug": "for-companies"
+    },
+    "page_settings": {
+        "template": "elementor_header_footer"
+    },
+    "content": [
+        {
+            "id": "c65a2a8",
+            "elType": "container",
+            "settings": {
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                    "unit": "px",
+                    "size": 0,
+                    "column": "0",
+                    "row": "0",
+                    "isLinked": true
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": true
+                },
+                "margin": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": true
+                }
+            },
+            "elements": [
+                {
+                    "id": "fb7077c",
+                    "elType": "widget",
+                    "widgetType": "bp_page_header",
+                    "settings": {
+                        "bg_image": {
+                            "url": "demo:apt",
+                            "id": 0
+                        },
+                        "size": "md",
+                        "eyebrow": "For Construction Companies",
+                        "title": "Large-scale supply, coordinated professionally",
+                        "text": "Multi-location coordination, documentation support and a dedicated contact for corporate accounts.",
+                        "buttons": [
+                            {
+                                "text": "Corporate Inquiry",
+                                "url": {
+                                    "url": "wa:Assalam-o-Alaikum BrickPoint,\n\nWe are a construction company interested in large-scale material supply.\n\nPlease share your corporate inquiry process.\n\nThank you.",
+                                    "is_external": "on",
+                                    "nofollow": ""
+                                },
+                                "style": "whatsapp",
+                                "size": "lg",
+                                "_id": "9f697bb"
+                            },
+                            {
+                                "text": "Contact Form",
+                                "url": {
+                                    "url": "page:contact",
+                                    "is_external": "",
+                                    "nofollow": ""
+                                },
+                                "style": "ghost",
+                                "size": "lg",
+                                "_id": "bc8afa8"
+                            }
+                        ]
+                    },
+                    "elements": []
+                }
+            ],
+            "isInner": false
+        },
+        {
+            "id": "f2f3544",
+            "elType": "container",
+            "settings": {
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                    "unit": "px",
+                    "size": 0,
+                    "column": "0",
+                    "row": "0",
+                    "isLinked": true
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": true
+                },
+                "margin": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": true
+                }
+            },
+            "elements": [
+                {
+                    "id": "10905ad",
+                    "elType": "widget",
+                    "widgetType": "bp_icon_cards",
+                    "settings": {
+                        "style": "dark-3xl",
+                        "columns": "3",
+                        "eyebrow": "Corporate Benefits",
+                        "title": "Built for scale",
+                        "items": [
+                            {
+                                "icon": {
+                                    "value": "bpi bpi-check-circle",
+                                    "library": "brickpoint"
+                                },
+                                "icon_color": "green",
+                                "title": "Large-scale supply",
+                                "text": "High-volume brick and material orders with planning.",
+                                "_id": "945b304"
+                            },
+                            {
+                                "icon": {
+                                    "value": "bpi bpi-check-circle",
+                                    "library": "brickpoint"
+                                },
+                                "icon_color": "green",
+                                "title": "Material coordination",
+                                "text": "Stage-wise scheduling across your sites.",
+                                "_id": "54014cd"
+                            },
+                            {
+                                "icon": {
+                                    "value": "bpi bpi-check-circle",
+                                    "library": "brickpoint"
+                                },
+                                "icon_color": "green",
+                                "title": "Multiple locations",
+                                "text": "Bhatta + office network for flexible fulfilment.",
+                                "_id": "55ccf54"
+                            },
+                            {
+                                "icon": {
+                                    "value": "bpi bpi-check-circle",
+                                    "library": "brickpoint"
+                                },
+                                "icon_color": "green",
+                                "title": "Product documentation",
+                                "text": "Quotations, specs and delivery records on request.",
+                                "_id": "dd9bb08"
+                            },
+                            {
+                                "icon": {
+                                    "value": "bpi bpi-check-circle",
+                                    "library": "brickpoint"
+                                },
+                                "icon_color": "green",
+                                "title": "Dedicated contact",
+                                "text": "CEO Syed Iftikhar Haider • Sales Qasim Iqbal • 0315 2850818",
+                                "_id": "93bfd7f"
+                            },
+                            {
+                                "icon": {
+                                    "value": "bpi bpi-check-circle",
+                                    "library": "brickpoint"
+                                },
+                                "icon_color": "green",
+                                "title": "Full-range sourcing",
+                                "text": "Structure to finishes under one relationship.",
+                                "_id": "023ec3b"
+                            }
+                        ]
+                    },
+                    "elements": []
+                }
+            ],
+            "isInner": false
+        },
+        {
+            "id": "086c66a",
+            "elType": "container",
+            "settings": {
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                    "unit": "px",
+                    "size": 0,
+                    "column": "0",
+                    "row": "0",
+                    "isLinked": true
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": true
+                },
+                "margin": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": true
+                }
+            },
+            "elements": [
+                {
+                    "id": "f503bde",
+                    "elType": "widget",
+                    "widgetType": "bp_cta_box",
+                    "settings": {
+                        "style": "outline",
+                        "title": "Start a corporate conversation",
+                        "text": "Share your company profile and upcoming requirement schedule.",
+                        "buttons": [
+                            {
+                                "text": "Corporate Inquiry Form",
+                                "url": {
+                                    "url": "page:contact",
+                                    "is_external": "",
+                                    "nofollow": ""
+                                },
+                                "style": "brick",
+                                "icon": {
+                                    "value": "bpi bpi-arrow-right",
+                                    "library": "brickpoint"
+                                },
+                                "_id": "b1ef97d"
+                            },
+                            {
+                                "text": "View References",
+                                "url": {
+                                    "url": "archive:bp_project",
+                                    "is_external": "",
+                                    "nofollow": ""
+                                },
+                                "style": "outline",
+                                "_id": "41523c5"
+                            }
+                        ]
+                    },
+                    "elements": []
+                }
+            ],
+            "isInner": false
+        }
+    ]
+}

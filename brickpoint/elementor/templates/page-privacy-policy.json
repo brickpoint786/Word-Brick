@@ -1,0 +1,61 @@
+{
+    "title": "Privacy Policy",
+    "type": "page",
+    "version": "0.4",
+    "brickpoint": {
+        "key": "page-privacy-policy",
+        "conditions": [],
+        "option": "",
+        "page_slug": "privacy-policy"
+    },
+    "page_settings": {
+        "template": "elementor_header_footer"
+    },
+    "content": [
+        {
+            "id": "80e7bef",
+            "elType": "container",
+            "settings": {
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                    "unit": "px",
+                    "size": 0,
+                    "column": "0",
+                    "row": "0",
+                    "isLinked": true
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": true
+                },
+                "margin": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": true
+                }
+            },
+            "elements": [
+                {
+                    "id": "19e330c",
+                    "elType": "widget",
+                    "widgetType": "bp_prose",
+                    "settings": {
+                        "eyebrow": "Legal",
+                        "title": "Privacy Policy",
+                        "content": "<p>BrickPoint respects your privacy. This policy explains what information we collect through quotation forms, WhatsApp inquiries and website usage — and how we use it.</p><h2>Information We Collect</h2><ul><li>Contact details you provide (name, phone, email, company, site location).</li><li>Quotation details (materials, quantities, messages).</li><li>Basic website analytics (pages visited, device type).</li></ul><h2>How We Use It</h2><ul><li>To prepare quotations and coordinate deliveries.</li><li>To respond to inquiries via phone, WhatsApp or email.</li><li>To improve our catalogue and customer experience.</li></ul><h2>Sharing</h2><p>We do not sell your personal data. Information is shared only with staff and delivery partners as needed to fulfil your request, or when required by law.</p><h2>WhatsApp Communication</h2><p>By contacting 0315 2850818 on WhatsApp you consent to receiving quotation and order-related messages from BrickPoint.</p><h2>Contact</h2><p>For privacy questions contact info@brickpoint.pk or 0315 2850818.</p><p class=\"bp-muted sm\">Last updated: 2026. Editable from the WordPress page editor.</p>"
+                    },
+                    "elements": []
+                }
+            ],
+            "isInner": false
+        }
+    ]
+}

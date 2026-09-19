@@ -1,0 +1,134 @@
+{
+    "title": "BrickPoint — SS7 Feature",
+    "type": "section",
+    "version": "0.4",
+    "brickpoint": {
+        "key": "lib-ss7-feature",
+        "conditions": [],
+        "option": "",
+        "page_slug": ""
+    },
+    "page_settings": [],
+    "content": [
+        {
+            "id": "b1648f2",
+            "elType": "container",
+            "settings": {
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                    "unit": "px",
+                    "size": 0,
+                    "column": "0",
+                    "row": "0",
+                    "isLinked": true
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": true
+                },
+                "margin": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": true
+                }
+            },
+            "elements": [
+                {
+                    "id": "f970ba2",
+                    "elType": "widget",
+                    "widgetType": "bp_ss7_feature",
+                    "settings": {
+                        "eyebrow": "Flagship Product",
+                        "title": "The Strength Behind Every Structure",
+                        "text": "SS7 Bricks — our signature range engineered for strength, shape and lasting performance. Ask for specifications, availability and project pricing on WhatsApp.",
+                        "specs": [
+                            {
+                                "label": "Size",
+                                "value": "Standard chamber size (confirm on quote)",
+                                "_id": "da7c7ba"
+                            },
+                            {
+                                "label": "Type",
+                                "value": "Burnt-clay SS7",
+                                "_id": "5dd8a02"
+                            },
+                            {
+                                "label": "Usage",
+                                "value": "Homes • Commercial • Boundary",
+                                "_id": "d8afc46"
+                            },
+                            {
+                                "label": "Availability",
+                                "value": "Bulk & retail orders",
+                                "_id": "3488602"
+                            }
+                        ],
+                        "buttons": [
+                            {
+                                "text": "Request SS7 Quote",
+                                "url": {
+                                    "url": "wa:Assalam-o-Alaikum BrickPoint,\n\nI want a quotation for: SS7 Bricks\n\nPlease share price, availability and delivery details.\n\nThank you.",
+                                    "is_external": "on",
+                                    "nofollow": ""
+                                },
+                                "style": "whatsapp",
+                                "_id": "9530c9a"
+                            },
+                            {
+                                "text": "View SS7 Page",
+                                "url": {
+                                    "url": "page:ss7-bricks",
+                                    "is_external": "",
+                                    "nofollow": ""
+                                },
+                                "style": "dark",
+                                "icon": {
+                                    "value": "bpi bpi-arrow-right",
+                                    "library": "brickpoint"
+                                },
+                                "_id": "a0da774"
+                            }
+                        ],
+                        "image": {
+                            "url": "demo:redStack",
+                            "id": 0
+                        },
+                        "thumbs": [
+                            {
+                                "image": {
+                                    "url": "demo:stacked",
+                                    "id": 0
+                                },
+                                "_id": "8f8f2bd"
+                            },
+                            {
+                                "image": {
+                                    "url": "demo:pile",
+                                    "id": 0
+                                },
+                                "_id": "b537ff0"
+                            },
+                            {
+                                "image": {
+                                    "url": "demo:worker",
+                                    "id": 0
+                                },
+                                "_id": "2573141"
+                            }
+                        ]
+                    },
+                    "elements": []
+                }
+            ],
+            "isInner": false
+        }
+    ]
+}

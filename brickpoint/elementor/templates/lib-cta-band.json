@@ -1,0 +1,89 @@
+{
+    "title": "BrickPoint — CTA Band (Send your material list)",
+    "type": "section",
+    "version": "0.4",
+    "brickpoint": {
+        "key": "lib-cta-band",
+        "conditions": [],
+        "option": "",
+        "page_slug": ""
+    },
+    "page_settings": [],
+    "content": [
+        {
+            "id": "cc7043a",
+            "elType": "container",
+            "settings": {
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                    "unit": "px",
+                    "size": 0,
+                    "column": "0",
+                    "row": "0",
+                    "isLinked": true
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": true
+                },
+                "margin": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": true
+                }
+            },
+            "elements": [
+                {
+                    "id": "cadd45f",
+                    "elType": "widget",
+                    "widgetType": "bp_cta_band",
+                    "settings": {
+                        "bg_image": {
+                            "url": "demo:bricklayer",
+                            "id": 0
+                        },
+                        "eyebrow": "Get a fast quotation",
+                        "title": "Send your material list.<br>We handle the rest.",
+                        "meta": "0315 2850818 • CEO: Syed Iftikhar Haider • Sales: Qasim Iqbal",
+                        "buttons": [
+                            {
+                                "text": "WhatsApp Your List",
+                                "url": {
+                                    "url": "wa:Assalam-o-Alaikum BrickPoint,\n\nPlease share a quotation for my construction materials.\n\nThank you.",
+                                    "is_external": "on",
+                                    "nofollow": ""
+                                },
+                                "style": "whatsapp",
+                                "icon": {
+                                    "value": "bpi bpi-message-circle",
+                                    "library": "brickpoint"
+                                },
+                                "_id": "bd6d81f"
+                            },
+                            {
+                                "text": "Request Quote Form",
+                                "url": {
+                                    "url": "page:contact",
+                                    "is_external": "",
+                                    "nofollow": ""
+                                },
+                                "style": "brick",
+                                "_id": "32cd28a"
+                            }
+                        ]
+                    },
+                    "elements": []
+                }
+            ],
+            "isInner": false
+        }
+    ]
+}

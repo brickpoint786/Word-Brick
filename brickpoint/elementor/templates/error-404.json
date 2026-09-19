@@ -1,0 +1,138 @@
+{
+    "title": "BrickPoint 404",
+    "type": "error-404",
+    "version": "0.4",
+    "brickpoint": {
+        "key": "error-404",
+        "conditions": [
+            "include/singular/not_found404"
+        ],
+        "option": "brickpoint_tpl_404",
+        "page_slug": ""
+    },
+    "page_settings": [],
+    "content": [
+        {
+            "id": "d41ba44",
+            "elType": "container",
+            "settings": {
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                    "unit": "px",
+                    "size": 0,
+                    "column": "0",
+                    "row": "0",
+                    "isLinked": true
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": true
+                },
+                "margin": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": true
+                }
+            },
+            "elements": [
+                {
+                    "id": "805cdb0",
+                    "elType": "widget",
+                    "widgetType": "bp_page_header",
+                    "settings": {
+                        "eyebrow": "Page not found",
+                        "title": "404",
+                        "text": "The page you are looking for has moved or does not exist. Try a search or head back to the catalogue.",
+                        "search": "yes",
+                        "buttons": [
+                            {
+                                "text": "Back to Home",
+                                "url": {
+                                    "url": "home",
+                                    "is_external": "",
+                                    "nofollow": ""
+                                },
+                                "style": "brick",
+                                "_id": "0f84d75"
+                            },
+                            {
+                                "text": "Browse Products",
+                                "url": {
+                                    "url": "archive:bp_product",
+                                    "is_external": "",
+                                    "nofollow": ""
+                                },
+                                "style": "ghost",
+                                "_id": "9e58c95"
+                            }
+                        ]
+                    },
+                    "elements": []
+                }
+            ],
+            "isInner": false
+        },
+        {
+            "id": "dddc7f7",
+            "elType": "container",
+            "settings": {
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                    "unit": "px",
+                    "size": 0,
+                    "column": "0",
+                    "row": "0",
+                    "isLinked": true
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": true
+                },
+                "margin": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": true
+                }
+            },
+            "elements": [
+                {
+                    "id": "5e308f9",
+                    "elType": "widget",
+                    "widgetType": "bp_product_grid",
+                    "settings": {
+                        "title": "Popular products",
+                        "head_layout": "row",
+                        "featured": "yes",
+                        "count": 4,
+                        "columns": "4",
+                        "plain": "yes",
+                        "button_text": "View all",
+                        "button_url": {
+                            "url": "archive:bp_product",
+                            "is_external": "",
+                            "nofollow": ""
+                        }
+                    },
+                    "elements": []
+                }
+            ],
+            "isInner": false
+        }
+    ]
+}
